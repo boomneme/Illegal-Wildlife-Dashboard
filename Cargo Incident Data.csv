@@ -1,0 +1,936 @@
+﻿AWB (XXX-XXXXXXXX),Deficiency Type,Incidents,Responsible Station,Status,Criticality,Date
+1,Temperature Exposure,1,YYZ,Closed,Critical,2022-02-15 0:00
+2,Carrier Performance ,1,YYZ,Closed,Medium,2022-04-27 0:00
+3,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-07-25 0:00
+4,Build Up-Insufficient,1,BOS,Closed,Medium,2022-04-13 0:00
+5,Illegal Wildlife Trade (IWT),1,YVR,Open,Medium,2022-05-05 0:00
+6,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-08-25 0:00
+7,Illegal Wildlife Trade (IWT),1,YVR,Closed,Low,2022-01-05 0:00
+8,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Critical,2022-05-13 0:00
+9,Booking/Handling,1,YVR,Closed,Medium,2022-05-05 0:00
+10,Booking/Handling,1,YYZ,Closed,Medium,2022-01-25 0:00
+11,Booking/Handling,1,YYZ,Closed,Critical,2022-01-30 0:00
+12,Booking/Handling,1,YYZ,Assigned to report owner,Critical,2022-08-26 0:00
+13,Build Up-Insufficient,1,YYZ,Closed,Low,2022-09-09 0:00
+14,IWT Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-21 0:00
+15,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-02-02 0:00
+16,Packaging - Damaged in transport,1,YYZ,Closed,Critical,2022-04-07 0:00
+17,Booking/Handling,1,SYD,Closed,Critical,2022-06-17 0:00
+18,Temperature Exposure - Observed (internal),1,PTY,Closed,Medium,2022-04-29 0:00
+19,Booking/Handling,1,YYZ,Closed,Critical,2022-04-05 0:00
+20,Missing Pre-Alerts,1,YYZ,Closed,Critical,2022-05-18 0:00
+21,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-08-24 0:00
+22,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-09-25 0:00
+23,Build Up-Insufficient,1,YYZ,Assigned to report owner,Critical,2022-09-28 0:00
+24,Clarification Required,1,YUL,Closed,Medium,2022-10-12 0:00
+25,Booking/Handling,1,HNL,Closed,Low,2022-01-26 0:00
+26,Freighter-Incorrect build plan/load entry,1,IST,Closed,Medium,2022-06-27 0:00
+27,Packaging - Damaged in transport,1,YVR RAMP,Closed,Medium,2022-03-28 0:00
+28,SOP non-conformance,1,YYZ,Closed,Critical,2022-06-04 0:00
+29,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-03-16 0:00
+30, Carrier Performance - OTP/Flight duration,1,BSL,Closed,Critical,2022-02-10 0:00
+31,Illegal Wildlife Trade (IWT),1,YVR,Closed,Critical,2022-01-25 0:00
+32, Missing/Insufficient - Documentation/Permits,1,YYZ RAMP,Closed,Medium,2022-01-13 0:00
+33,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-16 0:00
+34, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-15 0:00
+35, Missing/Insufficient - Documentation/Permits,1,MIA,Closed,Critical,2022-01-25 0:00
+36,Booking/Handling,1,YVR,Closed,Critical,2022-01-10 0:00
+37, Carrier Performance - Missed flight,1,FLL,Closed,Low,2022-01-31 0:00
+38,Carrier Performance - Missed flight,1,YYZ,Closed,Critical,2022-01-19 0:00
+39,No/Insufficient Temperature Storage/Handling,1,AMS,Closed,Critical,2022-02-16 0:00
+40,No/Insufficient Temperature Storage/Handling,1,YVR,Closed,Critical,2022-01-30 0:00
+41,Missing Pre-Alerts,1,YYC,Closed,Medium,2022-01-23 0:00
+42,Build Up-Insufficient,1,YUL,Closed,Medium,2022-02-04 0:00
+43, Missing/Insufficient - Documentation/Permits,1,YHZ,Closed,Critical,2022-02-07 0:00
+44,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-02-03 0:00
+45,Build Up-Insufficient,1,YYC,Closed,Medium,2022-02-14 0:00
+46,Carrier Performance - Delayed/Bumped,1,YYZ,Closed,Medium,2022-02-21 0:00
+47,LAR non-compliance,1,YVR,Closed,Critical,2022-02-22 0:00
+48, Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Medium,2022-02-16 0:00
+49, Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-02-25 0:00
+50,Performance - Delayed/Bumped,1,YYZ,Closed,Critical,2022-02-21 0:00
+51,Booking/Handling,1,BGI,Closed,Medium,2022-02-28 0:00
+52,UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-02-24 0:00
+53,Booking/Handling,1,YYZ,Closed,Critical,2022-02-25 0:00
+54, Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-02-25 0:00
+55,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-03-07 0:00
+56,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-03-31 0:00
+57,Booking/Handling,1,YYZ,Closed,Medium,2022-03-05 0:00
+58,Carrier Performance - Shipment not re-booked in timely manner,1,YYZ,Closed,Medium,2022-03-07 0:00
+59, Packaging - Insufficient,1,YVR,Closed,Medium,2022-03-03 0:00
+60, SOP non-conformance,1,JFK,Closed,Medium,2022-03-11 0:00
+61,Packaging - Incorrectly labeled,1,YUL,Closed,Critical,2022-03-23 0:00
+62,Temperature Exposure - Reported (customer),1,GVA,Closed,Critical,2022-04-07 0:00
+63,Planning-Incorrect process,1,YYZ,Closed,Medium,2022-03-16 0:00
+64,Booking/Handling,1,YUL,Closed,Medium,2022-04-06 0:00
+65,LAR non-compliance,1,YUL,Closed,Critical,2022-03-31 0:00
+66,UN-manifested Mishandling,1,ROC,Closed,Medium,2022-03-26 0:00
+67,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Medium,2022-03-27 0:00
+68,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-04-03 0:00
+69,Booking/Handling,1,CSU,Closed,Critical,2022-03-31 0:00
+70,Ramp Handling,1,YVR,Closed,Medium,2022-04-05 0:00
+71,Illegal Wildlife Trade (IWT),1,YHZ,Closed,Medium,2022-04-12 0:00
+72,Ramp Handling,1,YUL,Closed,Critical,2022-04-08 0:00
+73,In Flight/Ramp Temp Excursion,1,YUL,Closed,Critical,2022-04-04 0:00
+74, SOP non-conformance,1,YYZ,Closed,Critical,2022-04-07 0:00
+75,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Medium,2022-04-16 0:00
+76,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Medium,2022-04-16 0:00
+77,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Critical,2022-04-26 0:00
+78,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-04-18 0:00
+79,Booking/Handling,1,CSU,Closed,Medium,2022-04-15 0:00
+80,Ramp Handling,1,YVR,Closed,Critical,2022-06-08 0:00
+81,Booking/Handling,1,MIA,Closed,Medium,2022-04-25 0:00
+82,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,MIA,Closed,Medium,2022-04-24 0:00
+83, SOP non-conformance,1,YYZ,Closed,Medium,2022-05-02 0:00
+84, SOP non-conformance,1,YYZ,Closed,Medium,2022-05-05 0:00
+85,Illegal Wildlife Trade (IWT),1,LHR,Closed,Critical,2022-08-16 0:00
+86,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-05-18 0:00
+87, SOP non-conformance,1,YYZ,Closed,Medium,2022-05-03 0:00
+88, SOP non-conformance,1,YYZ,Closed,Critical,2022-05-04 0:00
+89,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-07-07 0:00
+90, SOP non-conformance,1,YYZ,Closed,Medium,2022-05-05 0:00
+91,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YUL,Closed,Medium,2022-05-18 0:00
+92,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-05-18 0:00
+93, Truck-Incorrect Equipment Type,1,YVR,Closed,Critical,2022-05-25 0:00
+94,Build Up-Insufficient,1,LYS,Closed,Medium,2022-05-23 0:00
+95,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Critical,2022-05-30 0:00
+96,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,EWR,Closed,Critical,2022-05-19 0:00
+97,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-05-21 0:00
+98,Illegal Wildlife Trade (IWT),1,YUL,Closed,Medium,2022-05-27 0:00
+99,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-06-11 0:00
+100,Build Up-Insufficient,1,LAX,Closed,Medium,2022-06-05 0:00
+101,Carrier Performance - Missed flight,1,YWG,Closed,Medium,2022-06-06 0:00
+102,Temperature Exposure - Reported (customer),1,FRA,Closed,Critical,2022-06-23 0:00
+103,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-06-16 0:00
+104,Build Up-Insufficient,1,YYC,Closed,Medium,2022-06-05 0:00
+105,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-06-08 0:00
+106,Planning-Incorrect process,1,YVR,Closed,Medium,2022-06-18 0:00
+107,Illegal Wildlife Trade (IWT),1,YHZ,Open,Medium,2022-06-18 0:00
+108,No/Insufficient Temperature Storage/Handling,1,CSU,Closed,Critical,2022-06-13 0:00
+109,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-08-02 0:00
+110,Packaging - Damaged in transport,1,YYZ,Closed,Critical,2022-06-23 0:00
+111,Booking/Handling,1,CSU,Closed,Low,2022-06-21 0:00
+112,Temperature Exposure - Observed (internal),1,YYZ,Closed,Low,2022-06-23 0:00
+113,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Medium,2022-06-23 0:00
+114,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-06-23 0:00
+115,Booking/Handling,1,YYZ,Closed,Critical,2022-07-04 0:00
+116,Trucking-OTP Dep/Arr,1,YYZ,Closed,Low,2022-06-30 0:00
+117,Trucking-OTP Dep/Arr,1,HDQ,Closed,Medium,2022-07-05 0:00
+118,High Frequency handling issues,1,YUL,Closed,Low,2022-07-15 0:00
+119,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YXS,Closed,Medium,2022-07-02 0:00
+120,Booking/Handling,1,YYC,Closed,Low,2022-07-13 0:00
+121,Equipment - Unserviceable,1,DTW,Closed,Critical,2022-07-22 0:00
+122,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Critical,2022-08-02 0:00
+123,Booking/Handling,1,SEA,Closed,Medium,2022-07-16 0:00
+124,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Assigned to report owner,Medium,2022-07-25 0:00
+125,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Assigned to report owner,Medium,2022-07-25 0:00
+126,Carrier Performance - Delayed/Bumped,1,YHZ RAMP,Closed,Critical,2022-10-06 0:00
+127,Booking/Handling,1,LAX,Closed,Critical,2022-08-29 0:00
+128,Build Up-Insufficient,1,ORD,Closed,Medium,2022-08-04 0:00
+129,Build Up-Insufficient,1,FRA,Closed,Medium,2022-08-03 0:00
+130,SOP non-conformance,1,YYZ,Closed,Low,2022-09-15 0:00
+131,Planning-Incorrect process,1,YYZ,Closed,Medium,2022-08-15 0:00
+132,Booking/Handling,1,YYZ,Assigned to report owner,Low,2022-08-24 0:00
+133,RFS Mishandling,1,YYZ,Assigned to report owner,Critical,2022-08-23 0:00
+134,Planning-Incorrect process,1,YYZ,Closed,Critical,2022-08-14 0:00
+135,Packaging - Damaged in transport,1,YYZ,Closed,Low,2022-08-26 0:00
+136,Booking/Handling,1,LHR,Closed,Low,2022-08-20 0:00
+137,Missing cargo (All/Part),1,YYZ,Assigned to report owner,Low,2022-09-30 0:00
+138,Carrier Performance - Missed flight,1,YVR,Assigned to report owner,Critical,2022-08-16 0:00
+139,Equipment - Unserviceable,1,DTW,Closed,Low,2022-08-27 0:00
+140,Packaging - Insufficient,1,YYT,Closed,Critical,2022-08-19 0:00
+141,Packaging - Damaged in transport,1,YUL,Closed,Critical,2022-08-24 0:00
+142,Missing Pre-Alerts,1,CSU,Assigned to report owner,Low,2022-08-29 0:00
+143,Packaging - Damaged in transport,1,DTW,Closed,Low,2022-09-11 0:00
+144,UN-manifested Mishandling,1,DUB,Assigned to report owner,Critical,2022-09-20 0:00
+145,Booking/Handling,1,LAX,Closed,Medium,2022-09-15 0:00
+146,Booking/Handling,1,YUL,Closed,Low,2022-09-18 0:00
+147,Missing cargo (All/Part),1,YVR,Assigned to report owner,Low,2022-09-15 0:00
+148, Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-03-12 0:00
+149,SOP non-conformance,1,CSU,Closed,Medium,2022-04-21 0:00
+150,Booking/Handling,1,YUL,Closed,Medium,2022-03-02 0:00
+151, UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-02-14 0:00
+152,Missing cargo (All/Part),1,YYZ,Closed,Critical,2022-01-21 0:00
+153,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Critical,2022-06-12 0:00
+154,Packaging - Insufficient,1,YYZ,Assigned to report owner,Low,2022-09-15 0:00
+155,Booking/Handling,1,CSU,Closed,Medium,2022-10-10 0:00
+156,Booking/Handling,1,CSU,Closed,Medium,2022-10-10 0:00
+157,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-06-16 0:00
+158,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Critical,2022-04-03 0:00
+159,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-10-23 0:00
+160, UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-02-22 0:00
+161,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Low,2022-08-26 0:00
+162,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-03-04 0:00
+163,Missing Pre-Alerts,1,YVR,Closed,Critical,2022-02-03 0:00
+164,Build Up-Insufficient,1,YVR,Closed,Medium,2022-02-13 0:00
+165,Booking/Handling,1,YVR,Closed,Medium,2022-07-07 0:00
+166,Packaging - Insufficient,1,YUL,Closed,Critical,2022-02-09 0:00
+167,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Medium,2022-03-29 0:00
+168,Missing/Insufficient - Documentation/Permits,1,CSU,Closed,Critical,2022-02-14 0:00
+169,Carrier Performance - Shipment not re-booked in timely manner,1,YYZ,Closed,Medium,2022-04-22 0:00
+170,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Assigned to report owner,Low,2022-08-25 0:00
+171,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Medium,2022-09-19 0:00
+172,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Medium,2022-09-19 0:00
+173,Planning-Incorrect process,1,YYZ,Closed,Medium,2022-03-07 0:00
+174,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Medium,2022-03-01 0:00
+175,Illegal Wildlife Trade (IWT),1,NRT,Closed,Medium,2022-03-03 0:00
+176,Packaging - Damaged in transport,1,YUL,Closed,Medium,2022-03-24 0:00
+177,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-02-26 0:00
+178,Equipment - Unserviceable,1,YVR,Closed,Low,2022-08-20 0:00
+179,Temperature Exposure - Reported (customer),1,HDQ,Closed,Critical,2022-05-19 0:00
+180,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-08-15 0:00
+181,> select a type of deficiency,1,CSU,Closed,Medium,2022-01-22 0:00
+182, Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Medium,2022-02-19 0:00
+183,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-17 0:00
+184,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-10-26 0:00
+185,Build Up-Insufficient,1,YYC,Closed,Medium,2022-07-18 0:00
+186,Equipment - Unserviceable,1,YYZ,Closed,Medium,2022-04-15 0:00
+187,Booking/Handling,1,YYZ,Closed,Medium,2022-04-04 0:00
+188, SOP non-conformance,1,YYZ,Closed,Critical,2022-05-31 0:00
+189,Ramp Handling,1,YYZ RAMP,Closed,Critical,2022-01-11 0:00
+190,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-09-29 0:00
+191,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Critical,2022-03-02 0:00
+192,SOP non-conformance,1,YYZ,Closed,Medium,2022-04-11 0:00
+193,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-02-22 0:00
+194,Carrier Performance - Missed flight,1,YYZ,Closed,Critical,2022-01-11 0:00
+195, Missing/Insufficient - Documentation/Permits,1,YYZ RAMP,Closed,Low,2022-01-11 0:00
+196,Ramp Handling,1,YVR RAMP,Closed,Medium,2022-03-05 0:00
+197,Booking/Handling,1,CSU,Assigned to report owner,Medium,2022-08-26 0:00
+198,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-02-09 0:00
+199,UN-manifested Mishandling,1,YVR,Closed,Critical,2022-04-14 0:00
+200, SOP non-conformance,1,YYZ,Closed,Medium,2022-05-06 0:00
+201,Booking/Handling,1,YHZ,Closed,Low,2022-06-29 0:00
+202, Missing cargo (All/Part),1,YYZ,Closed,Medium,2022-02-08 0:00
+203, UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-02-22 0:00
+204,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Medium,2022-02-28 0:00
+205, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-01-25 0:00
+206, Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-01-15 0:00
+207,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Low,2022-01-20 0:00
+208,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Critical,2022-02-18 0:00
+209, UN-manifested Mishandling,1,YVR,Closed,Medium,2022-02-21 0:00
+210,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Medium,2022-05-21 0:00
+211, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-13 0:00
+212,Booking/Handling,1,YHZ,Closed,Medium,2022-05-24 0:00
+213,Build Up-Insufficient,1,YUL,Closed,Medium,2022-05-28 0:00
+214,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YUL,Closed,Critical,2022-03-23 0:00
+215,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-03-23 0:00
+216,Packaging - Damaged in transport,1,YUL,Closed,Critical,2022-03-29 0:00
+217,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Critical,2022-05-21 0:00
+218,Booking/Handling,1,YYZ,Closed,Medium,2022-04-06 0:00
+219,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-21 0:00
+220,UN-manifested Mishandling,1,YYZ,Closed,Critical,2022-04-09 0:00
+221,Carrier Performance - Shipment not re-booked in timely manner,1,YYZ,Closed,Low,2022-06-23 0:00
+222,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-06-21 0:00
+223,SOP non-conformance,1,YYZ,Closed,Critical,2022-06-03 0:00
+224,Booking/Handling,1,YYZ,Closed,Critical,2022-05-24 0:00
+225,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Medium,2022-05-04 0:00
+226,Temperature Exposure - Observed (internal),1,YYZ,Closed,Medium,2022-05-30 0:00
+227,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-06-10 0:00
+228,Packaging - Damaged in transport,1,YYZ,Closed,Critical,2022-06-13 0:00
+229,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYZ,Closed,Low,2022-06-22 0:00
+230,Missing cargo (All/Part),1,YYZ,Closed,Medium,2022-07-06 0:00
+231, SOP non-conformance,1,YYC,Closed,Medium,2022-09-10 0:00
+232,Booking/Handling,1,YVR,Closed,Medium,2022-07-16 0:00
+233,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-08-03 0:00
+234,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YVR,Closed,Low,2022-09-07 0:00
+235,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,YYC,Closed,Low,2022-09-13 0:00
+236,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-07-22 0:00
+237,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-08-29 0:00
+238,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-08-31 0:00
+239,In Flight/Ramp Temp Excursion,1,MAD,Closed,Critical,2022-09-19 0:00
+240,Ramp Handling,1,YVR,Closed,Medium,2022-07-26 0:00
+241,Shipper Error-Temp Excursion,1,YYZ,Closed,Critical,2022-08-10 0:00
+242,Booking/Handling,1,YUL,Closed,Low,2022-07-12 0:00
+243,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-08-04 0:00
+244,SOP non-conformance,1,,Closed,,2022-08-04 0:00
+245,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-07-21 0:00
+246,SOP non-conformance,1,HDQ,Closed,Critical,2022-10-10 0:00
+247,Booking/Handling,1,CSU,Assigned to report owner,Critical,2022-10-28 0:00
+248,Booking/Handling,1,CSU,Assigned to report owner,Medium,2022-11-04 0:00
+249,Planning-Incorrect process,1,YYZ,Assigned to report owner,Medium,2022-10-28 0:00
+250,Build Up-Insufficient,1,YUL,Assigned to report owner,Medium,2022-09-23 0:00
+251,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-10-31 0:00
+252,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-17 0:00
+253,Build Up-Insufficient,1,SJU,Closed,Medium,2022-03-08 0:00
+254,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-01-20 0:00
+255,Equipment - Unserviceable,1,YVR,Closed,Low,2022-06-29 0:00
+256,Booking/Handling,1,LIS,Closed,Low,2022-01-14 0:00
+257,Equipment - Unserviceable,1,FLL,Closed,Medium,2022-01-23 0:00
+258,Packaging - Damaged in transport,1,YYZ,Closed,Critical,2022-02-09 0:00
+259,Temperature Exposure - Observed (internal),1,YYZ,Closed,Critical,2022-06-23 0:00
+260,In Flight/Ramp Temp Excursion,1,HDQ,Closed,Critical,2022-02-24 0:00
+261,Booking/Handling,1,YYZ,Closed,Medium,2022-04-06 0:00
+262,Booking/Handling,1,CUN,Closed,Critical,2022-08-02 0:00
+263, In Flight/Ramp Temp Excursion,1,HDQ,Closed,Critical,2022-01-07 0:00
+264,Missing/Insufficient - Documentation/Permits,1,GVA,Assigned to report owner,Critical,2022-06-09 0:00
+265,Missing cargo (All/Part),1,YYZ,Closed,Critical,2022-03-20 0:00
+266,Booking/Handling,1,FCO,Assigned to report owner,Medium,2022-08-03 0:00
+267,Booking/Handling,1,EWR,Closed,Medium,2022-07-18 0:00
+268,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,SFO,Assigned to report owner,Medium,2022-10-20 0:00
+269,SOP non-conformance,1,GVA,Assigned to report owner,Critical,2022-06-18 0:00
+270,Packaging - Insufficient,1,YUL,Closed,Critical,2022-02-22 0:00
+271,Packaging - Damaged in transport,1,YUL,Closed,Critical,2022-03-16 0:00
+272,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-04-20 0:00
+273,Booking/Handling,1,GVA,Assigned to report owner,Medium,2022-06-06 0:00
+274,Booking/Handling,1,GVA,Assigned to report owner,Critical,2022-09-08 0:00
+275,SOP non-conformance,1,GVA,Assigned to report owner,Medium,2022-10-24 0:00
+276,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-05-15 0:00
+277, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-28 0:00
+278,Booking/Handling,2,ZRH,Assigned to report owner,Medium,2022-08-24 0:00
+279,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,TLV,Closed,Medium,2022-10-20 0:00
+280,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-03-23 0:00
+281,SOP non-conformance,1,LAX,Closed,Medium,2022-10-07 0:00
+282,Booking/Handling,1,MIA,Closed,Medium,2022-09-06 0:00
+283,Missing/Insufficient - Documentation/Permits,1,YYZ,Assigned to report owner,Low,2022-09-06 0:00
+284,Missing/Insufficient - Documentation/Permits,1,FLL,Assigned to report owner,Medium,2022-09-29 0:00
+285,Packaging - Damaged in transport,1,YYZ,Closed,Low,2022-08-26 0:00
+286,Build Up-Insufficient,1,PUJ,Closed,Medium,2022-03-22 0:00
+287,Booking/Handling,1,SCL,Closed,Critical,2022-02-09 0:00
+288,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-02-02 0:00
+289,Booking/Handling,1,SCL,Closed,Critical,2022-03-30 0:00
+290,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Low,2022-08-02 0:00
+291,Equipment - Unserviceable,1,SCL,Closed,Critical,2022-07-19 0:00
+292,Build Up-Insufficient,1,YVR,Assigned to report owner,Medium,2022-11-03 0:00
+293,Equipment - Unserviceable,1,DTW,Closed,Medium,2022-05-05 0:00
+294,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-10-05 0:00
+295,Build Up-Insufficient,1,JFK,Closed,Low,2022-08-25 0:00
+296,Build Up-Insufficient,1,EZE,Closed,Medium,2022-06-25 0:00
+297,Booking/Handling,1,PTY,Closed,Medium,2022-04-07 0:00
+298,Booking/Handling,1,PTY,Closed,Medium,2022-04-24 0:00
+299,No/Insufficient Temperature Storage/Handling,1,YVR,Closed,Critical,2022-02-28 0:00
+300,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-07-22 0:00
+301, SOP non-conformance,1,ZRH,Closed,Medium,2022-06-01 0:00
+302,Planning-Incorrect process,1,YVR,Closed,Low,2022-06-29 0:00
+303,Missing cargo (All/Part),1,ATH,Assigned to report owner,Critical,2022-09-06 0:00
+304,Booking/Handling,1,MIA,Closed,Medium,2022-07-18 0:00
+305,Build Up-Insufficient,1,TLV,Closed,Medium,2022-03-24 0:00
+306,Build Up-Insufficient,1,SJU,Closed,Medium,2022-02-07 0:00
+307,Carrier Performance - Missed flight,1,YYZ,Closed,Critical,2022-04-04 0:00
+308,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-06-13 0:00
+309,Booking/Handling,1,SJU,Closed,Critical,2022-04-06 0:00
+310,Temperature Exposure - Reported (customer),1,SJU,Closed,Critical,2022-04-19 0:00
+311,Equipment - Unserviceable,1,YYZ,Closed,Medium,2022-06-03 0:00
+312,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-06-21 0:00
+313,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-05-23 0:00
+314,SOP non-conformance,1,,Closed,,2022-07-22 0:00
+315,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-06-24 0:00
+316,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-07-22 0:00
+317,Temperature Exposure - Reported (customer),1,AMS,Closed,Critical,2022-07-12 0:00
+318,Packaging - Insufficient,1,SJU,Closed,Critical,2022-09-16 0:00
+319,Temperature Exposure - Reported (customer),1,SJU,Closed,Critical,2022-09-26 0:00
+320,Missing/Insufficient - Documentation/Permits,1,SJU,Closed,Critical,2022-09-26 0:00
+321,Temperature Exposure - Reported (customer),1,SJU,Closed,Critical,2022-09-26 0:00
+322,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,SJU,Closed,Low,2022-10-02 0:00
+323,Booking/Handling,1,FCO,Closed,Medium,2022-10-13 0:00
+324,In Flight/Ramp Temp Excursion,1,FCO,Closed,Critical,2022-08-30 0:00
+325,Equipment - Unserviceable,1,CSU,Assigned to report owner,Low,2022-08-30 0:00
+326,Booking/Handling,1,HDQ,Closed,Critical,2022-03-02 0:00
+327,Booking/Handling,1,BOG,Closed,Critical,2022-03-01 0:00
+328,SOP non-conformance,1,BOG,Assigned to report owner,Critical,2022-10-08 0:00
+329,Temperature Exposure - Reported (customer),1,DUB,Closed,Critical,2022-01-12 0:00
+330,Booking/Handling,1,PHX,Closed,Critical,2022-05-30 0:00
+331,Booking/Handling,1,DEL,Closed,Critical,2022-02-13 0:00
+332,Booking/Handling,1,DEL,Closed,Critical,2022-02-13 0:00
+333,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DEL,Closed,Critical,2022-05-24 0:00
+334,Booking/Handling,1,DEL,Closed,Critical,2022-02-24 0:00
+335,Temperature Exposure - Reported (customer),1,DEL,Closed,Critical,2022-01-20 0:00
+336,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-03-09 0:00
+337,Booking/Handling,1,DEL,Closed,Critical,2022-02-14 0:00
+338,Temperature Exposure - Reported (customer),1,YVR,Closed,Critical,2022-01-24 0:00
+339,Shipper Error-Temp Excursion,1,HYD,Closed,Critical,2022-01-24 0:00
+340,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-03-09 0:00
+341,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,ZRH,Closed,Medium,2022-05-21 0:00
+342,Build Up-Insufficient,1,GVA,Closed,Medium,2022-01-23 0:00
+343,Missing cargo (All/Part),1,YYZ,Closed,Critical,2022-02-10 0:00
+344,Temperature Exposure - Reported (customer),1,BOG,Closed,Critical,2022-02-10 0:00
+345,Missing cargo (All/Part),1,YYZ,Closed,Critical,2022-02-10 0:00
+346,Temperature Exposure - Reported (customer),1,GVA,Closed,Critical,2022-03-01 0:00
+347,Temperature Exposure - Reported (customer),1,GVA,Closed,Critical,2022-03-18 0:00
+348,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-10-07 0:00
+349,In Flight/Ramp Temp Excursion,1,YYZ RAMP,Closed,Critical,2022-08-23 0:00
+350,Temperature Exposure - Reported (customer),1,SFO,Closed,Critical,2022-01-26 0:00
+351,Build Up-Insufficient,1,LAX,Closed,Medium,2022-07-05 0:00
+352,Packaging - Damaged in transport,1,YYZ,Closed,Critical,2022-02-14 0:00
+353,Temperature Exposure - Reported (customer),1,DEL,Closed,Critical,2022-03-16 0:00
+354,Packaging - Damaged in transport,1,YYZ RAMP,Closed,Critical,2022-03-01 0:00
+355,Missing/Insufficient - Documentation/Permits,1,MEX,Closed,Critical,2022-03-15 0:00
+356,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-03-15 0:00
+357,Temperature Exposure - Reported (customer),1,YUL,Closed,Critical,2022-01-17 0:00
+358,Packaging - Damaged in transport,1,AMS,Closed,Medium,2022-04-10 0:00
+359,SOP non-conformance,1,YHZ,Closed,Critical,2022-01-11 0:00
+360,Equipment - Unserviceable,1,GRU,Closed,Low,2022-02-06 0:00
+361, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-13 0:00
+362,Equipment - Unserviceable,1,YYZ,Closed,Medium,2022-05-17 0:00
+363,Temperature Exposure - Reported (customer),1,SYD,Closed,Critical,2022-06-23 0:00
+364,Planning-Incorrect process,1,YYZ,Closed,Medium,2022-04-16 0:00
+365,Booking/Handling,1,YYC,Closed,Critical,2022-01-18 0:00
+366,Temperature Exposure - Reported (customer),1,FRA,Closed,Critical,2022-03-24 0:00
+367, In Flight/Ramp Temp Excursion,1,YUL,Closed,Critical,2022-01-19 0:00
+368,Temperature Exposure - Reported (customer),1,FRA,Closed,Critical,2022-02-08 0:00
+369,Booking/Handling,1,MIA,Closed,Medium,2022-06-13 0:00
+370,Temperature Exposure - Reported (customer),1,YVR,Closed,Medium,2022-10-11 0:00
+371,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-03-22 0:00
+372,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-04-07 0:00
+373,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-04-07 0:00
+374,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-05-24 0:00
+375,Temperature Exposure - Reported (customer),1,LHR,Closed,Critical,2022-02-10 0:00
+376,Temperature Exposure - Reported (customer),1,LHR,Closed,Critical,2022-02-14 0:00
+377,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-01-04 0:00
+378,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-02-16 0:00
+379, SOP non-conformance,1,PVG,Closed,Medium,2022-04-23 0:00
+380, Missing cargo (All/Part),1,YYZ,Closed,Medium,2022-01-29 0:00
+381,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-02-28 0:00
+382,Temperature Exposure - Reported (customer),1,BRU,Closed,Critical,2022-02-28 0:00
+383,In Flight/Ramp Temp Excursion,1,HDQ,Closed,Critical,2022-03-09 0:00
+384,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-02-09 0:00
+385,Missing/Insufficient - Documentation/Permits,1,BRU,Assigned to report owner,Medium,2022-10-11 0:00
+386,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-04-01 0:00
+387,Packaging - Damaged in transport,1,YYZ,Closed,Critical,2022-04-05 0:00
+388,Temperature Exposure - Reported (customer),1,YUL,Closed,Critical,2022-01-17 0:00
+389,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-01-25 0:00
+390,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-01-25 0:00
+391,In Flight/Ramp Temp Excursion,1,BRU,Closed,Critical,2022-02-14 0:00
+392,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,BRU,Closed,Medium,2022-03-30 0:00
+393,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-05-23 0:00
+394,Booking/Handling,1,MEX,Closed,Medium,2022-01-26 0:00
+395, SOP non-conformance,1,IAD,Closed,Medium,2022-09-09 0:00
+396,Packaging - Damaged in transport,1,CMN,Closed,Medium,2022-08-29 0:00
+397,UN-manifested Mishandling,1,YYZ,Closed,Critical,2022-09-09 0:00
+398,Booking/Handling,1,CMN,Closed,Low,2022-09-07 0:00
+399,Build Up-Insufficient,1,YUL,Closed,Low,2022-09-16 0:00
+400, SOP non-conformance,1,YYZ,Assigned to report owner,Medium,2022-10-27 0:00
+401,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-02-17 0:00
+402,No/Insufficient Temperature Storage/Handling,1,MAD,Closed,Critical,2022-02-18 0:00
+403,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-02-18 0:00
+404,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-02-18 0:00
+405,No/Insufficient Temperature Storage/Handling,1,MAD,Closed,Critical,2022-02-18 0:00
+406,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-02-08 0:00
+407,No/Insufficient Temperature Storage/Handling,1,MAD,Closed,Critical,2022-01-12 0:00
+408,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-02-05 0:00
+409,Temperature Exposure - Reported (customer),1,YUL,Closed,Critical,2022-01-06 0:00
+410,Build Up-Insufficient,1,FRA,Closed,Medium,2022-05-16 0:00
+411,Ramp Handling,1,YYZ,Closed,Low,2022-06-23 0:00
+412,SOP non-conformance,1,UIO,Closed,Medium,2022-06-02 0:00
+413,Carrier Performance - Delayed/Bumped,1,YYZ,Closed,Medium,2022-03-07 0:00
+414,Booking/Handling,1,BOS,Closed,Medium,2022-04-11 0:00
+415,Equipment - Unserviceable,1,"JFK, BOS",Closed,Medium,2022-03-27 0:00
+416,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-03-14 0:00
+417,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-02-07 0:00
+418,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-02-18 0:00
+419, Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Critical,2022-02-07 0:00
+420, RFS Mishandling,1,YYZ,Closed,Medium,2022-01-12 0:00
+421,In Flight/Ramp Temp Excursion,1,HDQ,Closed,Critical,2022-03-20 0:00
+422,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-09-29 0:00
+423,No/Insufficient Temperature Storage/Handling,1,DUB,Closed,Critical,2022-08-23 0:00
+424,Trucking-OTP Dep/Arr,1,YYZ,Closed,Medium,2022-04-10 0:00
+425, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-11 0:00
+426,Booking/Handling,1,BOG,Closed,Low,2022-01-20 0:00
+427,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-02-04 0:00
+428,Booking/Handling,1,YUL,Closed,Critical,2022-08-17 0:00
+429,Build Up-Insufficient,1,BOG,Closed,Medium,2022-04-19 0:00
+430,Build Up-Insufficient,1,BOG,Closed,Medium,2022-04-19 0:00
+431,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,GVA,Assigned to report owner,Medium,2022-03-08 0:00
+432,Build Up-Insufficient,1,FCO,Closed,Medium,2022-05-02 0:00
+433,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-05-17 0:00
+434,Temperature Exposure - Reported (customer),1,YYZ,Closed,Medium,2022-08-23 0:00
+435,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,SWK/FCO,Assigned to report owner,Critical,2022-07-20 0:00
+436,Missing/Insufficient - Documentation/Permits,1,MIA,Closed,Medium,2022-04-18 0:00
+437,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Critical,2022-05-30 0:00
+438,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Critical,2022-05-30 0:00
+439,In Flight/Ramp Temp Excursion,1,SJU,Closed,Critical,2022-07-04 0:00
+440,No/Insufficient Temperature Storage/Handling,1,SJU,Closed,Critical,2022-08-26 0:00
+441,No/Insufficient Temperature Storage/Handling,1,DEL,Closed,Critical,2022-03-28 0:00
+442, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-16 0:00
+443,Booking/Handling,1,EDI,Closed,Medium,2022-07-16 0:00
+444,Temperature Exposure - Reported (customer),1,DEL,Closed,Critical,2022-04-18 0:00
+445,Missing/Insufficient - Documentation/Permits,1,DEL,Closed,Medium,2022-05-26 0:00
+446,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DEL,Closed,Critical,2022-09-07 0:00
+447,Booking/Handling,1,DEL,Closed,Low,2022-07-13 0:00
+448,Booking/Handling,1,DEL,Closed,Critical,2022-10-01 0:00
+449,Booking/Handling,1,GRU,Closed,Critical,2022-02-04 0:00
+450,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-08-05 0:00
+451, Packaging - Incorrectly labeled,1,GRU,Closed,Medium,2022-02-14 0:00
+452,Booking/Handling,1,GRU,Closed,Medium,2022-02-03 0:00
+453,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-03-20 0:00
+454,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-01-20 0:00
+455,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Medium,2022-06-27 0:00
+456,LAR non-compliance,1,ICN,Closed,Critical,2022-03-31 0:00
+457,Build Up-Insufficient,1,ORD,Closed,Medium,2022-04-19 0:00
+458,Booking/Handling,1,ORD,Closed,Medium,2022-02-26 0:00
+459, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-24 0:00
+460, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-01 0:00
+461, Missing/Insufficient - Documentation/Permits,1,YYZ RAMP,Closed,Low,2022-01-11 0:00
+462, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-30 0:00
+463, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-23 0:00
+464, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-15 0:00
+465,Temperature Exposure - Reported (customer),1,HDQ,Assigned to report owner,Critical,2022-10-21 0:00
+466, Missing cargo (All/Part),1,SEA,Closed,Medium,2022-02-15 0:00
+467,Packaging - Damaged in transport,1,FRA,Closed,Medium,2022-02-28 0:00
+468, RFS Mishandling,1,JFK,Closed,Medium,2022-01-23 0:00
+469,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-10-26 0:00
+470, Missing/Insufficient - Documentation/Permits,1,ORD,Closed,Medium,2022-01-23 0:00
+471,Packaging - Damaged in transport,1,YUL,Closed,Critical,2022-05-13 0:00
+472,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-08-03 0:00
+473,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-15 0:00
+474,Booking/Handling,1,YVR,Closed,Critical,2022-01-18 0:00
+475, Packaging - Incorrectly labeled,1,YYC,Closed,Low,2022-01-14 0:00
+476,Carrier Performance - Missed flight,1,YYZ,Closed,Medium,2022-06-21 0:00
+477,Carrier Performance - Missed flight,1,YYZ,Closed,Medium,2022-06-10 0:00
+478, Ramp Handling,1,YYZ RAMP,Closed,Medium,2022-02-14 0:00
+479, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-14 0:00
+480,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,TLV,Closed,Critical,2022-07-23 0:00
+481, SOP non-conformance,1,TLV,Closed,Medium,2022-05-03 0:00
+482,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,TLV,Closed,Medium,2022-08-17 0:00
+483,UN-manifested Mishandling,1,MIA,Closed,Critical,2022-06-14 0:00
+484,Packaging - Damaged in transport,1,MEX,Closed,Critical,2022-03-18 0:00
+485,Temperature Exposure - Reported (customer),1,GVA,Closed,Critical,2022-08-09 0:00
+486,Build Up-Insufficient,1,ZRH,Assigned to report owner,Low,2022-07-17 0:00
+487,Packaging - Damaged in transport,1,HDQ,Closed,Critical,2022-08-10 0:00
+488,Temperature Exposure - Reported (customer),1,BOG,Closed,Critical,2022-08-09 0:00
+489,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Medium,2022-06-23 0:00
+490,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-08-10 0:00
+491,Temperature Exposure - Reported (customer),1,GVA,Closed,Critical,2022-08-10 0:00
+492,Carrier Performance - Delayed/Bumped,1,CSU,Assigned to report owner,Low,2022-09-09 0:00
+493,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,ZRH,Assigned to report owner,Medium,2022-09-27 0:00
+494,SOP non-conformance,1,YYZ,Closed,Low,2022-07-15 0:00
+495,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-09-23 0:00
+496,Planning-Incorrect process,1,YYZ,Closed,Critical,2022-07-23 0:00
+497,In Flight/Ramp Temp Excursion,1,YYZ,Closed,Critical,2022-10-25 0:00
+498,Temperature Exposure - Reported (customer),1,UIO,Assigned to report owner,Critical,2022-10-25 0:00
+499,Equipment - Unserviceable,1,YYZ,Closed,Low,2022-07-20 0:00
+500,Ramp Handling,1,YVR,Closed,Medium,2022-10-14 0:00
+501, SOP non-conformance,1,MAD,Closed,Medium,2022-08-09 0:00
+502,Packaging - Damaged in transport,1,MAD,Closed,Medium,2022-04-26 0:00
+503,Booking/Handling,1,BCN,Closed,Medium,2022-10-12 0:00
+504,Missing/Insufficient - Documentation/Permits,1,MAD,Closed,Critical,2022-04-16 0:00
+505,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-05-18 0:00
+506,In Flight/Ramp Temp Excursion,1,MAD,Closed,Critical,2022-09-06 0:00
+507,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-08-23 0:00
+508,Booking/Handling,1,YYZ,Closed,Medium,2022-03-02 0:00
+509,Build Up-Insufficient,1,GDL,Closed,Medium,2022-03-05 0:00
+510, SOP non-conformance,1,FRA,Assigned to report owner,Medium,2022-09-20 0:00
+511,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FRA,Closed,Critical,2022-03-25 0:00
+512,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,MUC,Closed,Medium,2022-07-13 0:00
+513,Shipper Error-Temp Excursion,1,FRA,Closed,Critical,2022-05-16 0:00
+514,Build Up-Insufficient,1,FRA,Closed,Medium,2022-06-13 0:00
+515,Ramp Handling,1,YYZ,Closed,Critical,2022-06-09 0:00
+516,Build Up-Insufficient,1,FRA,Closed,Medium,2022-05-22 0:00
+517,Build Up-Insufficient,1,FRA,Closed,Critical,2022-05-30 0:00
+518,Booking/Handling,1,BRU,Closed,Critical,2022-04-16 0:00
+519,Booking/Handling,1,BRU,Assigned to report owner,Critical,2022-07-10 0:00
+520,Temperature Exposure - Reported (customer),1,YUL,Closed,Critical,2022-08-10 0:00
+521,In Flight/Ramp Temp Excursion,1,YUL,Closed,Critical,2022-09-13 0:00
+522,Equipment - Unserviceable,1,BRU,Closed,Medium,2022-04-28 0:00
+523, Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,BRU,Closed,Critical,2022-03-29 0:00
+524,Temperature Exposure - Reported (customer),1,YYZ,Closed,Critical,2022-05-16 0:00
+525,Customer Error,1,BRU,Closed,Critical,2022-09-06 0:00
+526,No/Insufficient Temperature Storage/Handling,1,BRU,Closed,Critical,2022-05-18 0:00
+527,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-06-09 0:00
+528, SOP non-conformance,1,IST,Closed,Medium,2022-07-11 0:00
+529,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,HDQ,Assigned to report owner,Medium,2022-10-13 0:00
+530,Build Up-Insufficient,1,CPH,Assigned to report owner,Medium,2022-10-10 0:00
+531,Temperature Exposure - Reported (customer),1,BRU,Closed,Critical,2022-07-04 0:00
+532,Booking/Handling,1,BRU,Assigned to report owner,Medium,2022-09-09 0:00
+533,Booking/Handling,1,BRU,Closed,Low,2022-10-10 0:00
+534,SOP non-conformance,1,BRU,Assigned to report owner,Medium,2022-08-12 0:00
+535,Booking/Handling,1,BRU,Closed,Medium,2022-07-28 0:00
+536,Left Unattended on Ramp,1,BRU,Closed,Critical,2022-07-12 0:00
+537,No/Insufficient Temperature Storage/Handling,1,BRU,Closed,Critical,2022-08-04 0:00
+538,Temperature Exposure - Reported (customer),1,,Report submitted for review,,2022-10-31 0:00
+539,Trucking-Customs,1,YYZ,Assigned to report owner,Critical,2022-10-31 0:00
+540,Build Up-Insufficient,1,YYZ,Closed,Low,2022-02-08 0:00
+541,Build Up-Insufficient,1,IAD,Closed,Medium,2022-02-10 0:00
+542,Build Up-Insufficient,1,IAD,Closed,Medium,2022-02-10 0:00
+543,Build Up-Insufficient,1,IAD,Closed,Medium,2022-02-10 0:00
+544,No/Insufficient Temperature Storage/Handling,1,AMS,Closed,Critical,2022-05-03 0:00
+545,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-01-23 0:00
+546,Equipment - Unserviceable,1,BOS,Closed,Medium,2022-01-15 0:00
+547,Equipment - Unserviceable,1,JFK,Closed,Medium,2022-03-11 0:00
+548, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-02-10 0:00
+549,Packaging - Damaged in transport,2,ORD,Closed,Medium,2022-04-10 0:00
+550,Packaging - Damaged in transport,1,ORD,Closed,Medium,2022-04-04 0:00
+551,Packaging - Insufficient,1,YYZ,Closed,Medium,2022-05-02 0:00
+552,Booking/Handling,1,BOS,Closed,Medium,2022-04-22 0:00
+553,Packaging - Damaged in transport,1,DTW,Closed,Critical,2022-03-16 0:00
+554, UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-02-12 0:00
+555,Build Up-Insufficient,1,YYZ,Closed,Low,2022-09-02 0:00
+556,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-05-30 0:00
+557, SOP non-conformance,1,PVG,Closed,Medium,2022-06-14 0:00
+558,Build Up-Insufficient,1,PVG,Closed,Low,2022-08-14 0:00
+559,RFS Mishandling,1,YYZ,Closed,Low,2022-08-30 0:00
+560,Ramp Handling,1,YVR RAMP,Assigned to report owner,Critical,2022-09-16 0:00
+561, SOP non-conformance,1,ORD,Assigned to report owner,Medium,2022-10-16 0:00
+562,LAR non-compliance,1,YYZ,Closed,Critical,2022-09-10 0:00
+563,SOP non-conformance,1,YYZ,Closed,Medium,2022-03-16 0:00
+564,Build Up-Insufficient,1,UIO,Closed,Critical,2022-05-19 0:00
+565,Missing cargo (All/Part),1,YYZ,Closed,Medium,2022-04-18 0:00
+566,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-23 0:00
+567,Booking/Handling,1,CDG,Assigned to report owner,Low,2022-09-07 0:00
+568,Clarification Required,1,,Closed,,2022-09-07 0:00
+569,Booking/Handling,1,LYS,Assigned to report owner,Low,2022-09-06 0:00
+570,Temperature Exposure - Reported (customer),1,YYZ,Assigned to report owner,Critical,2022-10-26 0:00
+571,Build Up-Insufficient,1,BOS,Closed,Medium,2022-04-10 0:00
+572,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,EWR,Closed,Medium,2022-03-29 0:00
+573,Temperature Exposure - Reported (customer),1,SJU,Closed,Critical,2022-06-13 0:00
+574,Equipment - Unserviceable,1,BOS,Closed,Medium,2022-04-17 0:00
+575,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-04-02 0:00
+576,Booking/Handling,1,MEX GSA,Closed,Medium,2022-07-11 0:00
+577,Booking/Handling,1,CUN,Closed,Medium,2022-04-22 0:00
+578, SOP non-conformance,1,GDL,Closed,Critical,2022-06-11 0:00
+579,Clarification Required,1,,Closed,,2022-08-17 0:00
+580,Packaging - Damaged in transport,1,YYC,Closed,Medium,2022-03-27 0:00
+581,Booking/Handling,1,ORD,Closed,Medium,2022-04-25 0:00
+582,Missing/Insufficient - Documentation/Permits,1,ORD,Closed,Medium,2022-03-22 0:00
+583,Build Up-Insufficient,1,JFK,Closed,Critical,2022-07-16 0:00
+584,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-03-12 0:00
+585,Booking/Handling,1,IAD,Closed,Medium,2022-03-30 0:00
+586,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-12 0:00
+587, SOP non-conformance,1,YVR,Closed,Medium,2022-05-11 0:00
+588,Temperature Exposure - Reported (customer),1,YYZ,Closed,Medium,2022-08-30 0:00
+589,Equipment - Unserviceable,1,JFK,Closed,Medium,2022-03-30 0:00
+590,Equipment - Unserviceable,1,JFK,Closed,Medium,2022-04-15 0:00
+591, SOP non-conformance,1,PDX,Closed,Medium,2022-04-07 0:00
+592,Booking/Handling,1,DTW,Closed,Medium,2022-03-23 0:00
+593,Equipment - Unserviceable,1,JFK,Closed,Medium,2022-04-15 0:00
+594,Equipment - Unserviceable,1,JFK,Closed,Medium,2022-04-17 0:00
+595,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-05-18 0:00
+596,Equipment - Unserviceable,1,ORD,Closed,Medium,2022-03-22 0:00
+597,Packaging - Damaged in transport,1,IAD,Closed,Medium,2022-03-28 0:00
+598,Build Up-Insufficient,1,ORD,Closed,Medium,2022-04-11 0:00
+599,Build Up-Insufficient,1,IAD,Closed,Medium,2022-04-11 0:00
+600,Build Up-Insufficient,1,ORD,Closed,Medium,2022-05-19 0:00
+601,Booking/Handling,1,SEA,Closed,Medium,2022-03-11 0:00
+602,Equipment - Unserviceable,1,ORD,Closed,Medium,2022-04-11 0:00
+603,Equipment - Unserviceable,1,ORD,Closed,Medium,2022-04-15 0:00
+604,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-26 0:00
+605,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-04-03 0:00
+606,RFS Mishandling,1,ORD,Closed,Medium,2022-03-26 0:00
+607,Equipment - Unserviceable,1,YYZ,Closed,Medium,2022-03-30 0:00
+608,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,BOS,Closed,Critical,2022-03-31 0:00
+609,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,JFK,Closed,Critical,2022-03-31 0:00
+610,Packaging - Damaged in transport,1,ORD,Closed,Medium,2022-04-10 0:00
+611,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,GRU,Report approved close out required,Medium,2022-06-24 0:00
+612,Audit Finding,1,YUL,Closed,Medium,2022-05-15 0:00
+613,Equipment - Unserviceable,1,GRU,Closed,Medium,2022-06-03 0:00
+614,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-05-29 0:00
+615,Temperature Exposure - Reported (customer),1,MAD,Closed,Critical,2022-09-06 0:00
+616,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-05-28 0:00
+617,Temperature Exposure - Reported (customer),1,YVR,Closed,Critical,2022-08-15 0:00
+618,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Medium,2022-06-30 0:00
+619,SOP non-conformance,1,YYZ,Closed,Critical,2022-06-23 0:00
+620,Build Up-Insufficient,1,YVR,Closed,Medium,2022-09-20 0:00
+621,Carrier Performance - Delayed/Bumped,1,YUL,Assigned to report owner,Low,2022-10-19 0:00
+622,UN-manifested Mishandling,1,YYZ,Closed,Low,2022-09-30 0:00
+623,Build Up-Insufficient,1,YVR,Closed,Medium,2022-04-12 0:00
+624,Carrier Performance - Missed flight,1,YYZ,Closed,Critical,2022-06-10 0:00
+625,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-06-14 0:00
+626,Carrier Performance - Delayed/Bumped,1,YYZ,Closed,Medium,2022-05-23 0:00
+627, SOP non-conformance,1,YUL,Closed,Critical,2022-05-29 0:00
+628,Ramp Handling,1,YYZ,Closed,Medium,2022-08-18 0:00
+629,Build Up-Insufficient,1,BCN,Closed,Low,2022-10-05 0:00
+630,Build Up-Insufficient,1,UIO,Closed,Medium,2022-05-28 0:00
+631,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Medium,2022-05-16 0:00
+632,Build Up-Insufficient,1,UIO,Closed,Low,2022-09-16 0:00
+633,Missing cargo (All/Part),1,YYZ,Assigned to report owner,Medium,2022-11-06 0:00
+634,SOP non-conformance,1,HDQ,Closed,Medium,2022-10-22 0:00
+635,Packaging - Insufficient,1,BNE,Assigned to report owner,Critical,2022-11-01 0:00
+636,Packaging - Insufficient,1,BNE,Assigned to report owner,Critical,2022-11-01 0:00
+637,Booking/Handling,1,SYD,Closed,Medium,2022-10-24 0:00
+638,Packaging - Damaged in transport,1,ORD,Closed,Critical,2022-05-09 0:00
+639,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-06-20 0:00
+640,Booking/Handling,1,YYZ,Closed,Medium,2022-06-18 0:00
+641,Freighter-Incorrect build plan/load entry,1,YYZ,Closed,Medium,2022-07-25 0:00
+642,Missing cargo (All/Part),1,YYZ,Closed,Medium,2022-05-18 0:00
+643,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Medium,2022-06-27 0:00
+644, SOP non-conformance,1,YYZ,Closed,Critical,2022-05-11 0:00
+645,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-07-14 0:00
+646,Build Up-Insufficient,1,YVR,Closed,Medium,2022-06-20 0:00
+647,Build Up-Insufficient,1,SFO,Closed,Low,2022-06-29 0:00
+648,Equipment - Unserviceable,1,JFK,Closed,Medium,2022-06-09 0:00
+649,Planning-Incorrect process,1,JFK,Closed,Critical,2022-06-09 0:00
+650,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,ORD,Closed,Medium,2022-07-07 0:00
+651,Packaging - Damaged in transport,1,JFK,Assigned to report owner,Medium,2022-10-31 0:00
+652, SOP non-conformance,1,YYZ,Closed,Critical,2022-08-17 0:00
+653,RFS Mishandling,1,YYZ,Closed,Critical,2022-08-22 0:00
+654,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FRA,Closed,Medium,2022-10-26 0:00
+655,Booking/Handling,1,YYZ,Assigned to report owner,Medium,2022-10-31 0:00
+656,Packaging - Damaged in transport,1,YYZ,Assigned to report owner,Medium,2022-10-25 0:00
+657,Packaging - Damaged in transport,1,NRT,Closed,Low,2022-08-31 0:00
+658,Build Up-Insufficient,1,YYZ,Closed,Low,2022-06-23 0:00
+659,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,LHR,Closed,Medium,2022-07-13 0:00
+660,Freighter-Incorrect build plan/load entry,1,YYZ,Closed,Medium,2022-10-12 0:00
+661,Packaging - Incorrectly labeled,1,LHR,Closed,Critical,2022-07-22 0:00
+662,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Low,2022-09-08 0:00
+663,No/Insufficient Unarmed Guards/Valuable Room Storage/Handling available,1,MEX,Closed,Critical,2022-05-30 0:00
+664,Booking/Handling,1,BRU,Assigned to report owner,Medium,2022-10-12 0:00
+665,Booking/Handling,1,BRU,Assigned to report owner,Critical,2022-09-14 0:00
+666,Temperature Exposure - Observed (internal),1,YUL,Closed,Critical,2022-10-26 0:00
+667,Freighter-Incorrect build plan/load entry,1,FRA,Assigned to report owner,Medium,2022-10-18 0:00
+668,Booking/Handling,1,BRU,Assigned to report owner,Low,2022-10-05 0:00
+669,UN-manifested Mishandling,1,YYZ,Closed,Critical,2022-10-28 0:00
+670,Booking/Handling,1,ORD,Closed,Medium,2022-06-20 0:00
+671,UN-manifested Mishandling,1,YVR,Closed,Critical,2022-09-09 0:00
+672,UN-manifested Mishandling,1,YYZ,Assigned to report owner,Low,2022-09-30 0:00
+673,Packaging - Damaged in transport,1,YYZ,Closed,Low,2022-06-29 0:00
+674,Booking/Handling,1,BOS,Closed,Medium,2022-06-18 0:00
+675,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-05-28 0:00
+676,Build Up-Insufficient,1,YVR,Closed,Low,2022-09-10 0:00
+677,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-08-06 0:00
+678,Packaging - Damaged in transport,1,YYZ,Closed,Low,2022-08-23 0:00
+679,Build Up-Insufficient,1,JFK,Closed,Medium,2022-07-17 0:00
+680,Build Up-Insufficient,1,JFK,Assigned to report owner,Medium,2022-10-24 0:00
+681,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,LHR,Closed,Critical,2022-07-26 0:00
+682,Equipment - Unserviceable,1,HDQ,Closed,Critical,2022-09-16 0:00
+683,No/Insufficient Temperature Storage/Handling,1,YYZ,Closed,Critical,2022-08-11 0:00
+684,Booking/Handling,1,BCN,Closed,Medium,2022-08-18 0:00
+685,Booking/Handling,1,BCN/MAD,Closed,Critical,2022-08-11 0:00
+686,Packaging - Insufficient,1,MAD,Closed,Low,2022-09-09 0:00
+687,Missing/Insufficient - Documentation/Permits,1,BNE,Assigned to report owner,Medium,2022-11-02 0:00
+688,Planning-Incorrect process,1,MAD,Assigned to report owner,Medium,2022-11-02 0:00
+689,Booking/Handling,1,ICN,Report initiated,Medium,2022-11-02 0:00
+690,Packaging - Damaged in transport,1,YUL,Closed,Low,2022-09-06 0:00
+691,UN-manifested Mishandling,1,YYZ,Assigned to report owner,Medium,2022-11-08 0:00
+692,Build Up-Insufficient,1,IAD,Closed,Low,2022-08-11 0:00
+693,Build Up-Insufficient,1,ORD,Assigned to report owner,Medium,2022-10-20 0:00
+694,Equipment - Unserviceable,1,BOS,Closed,Medium,2022-08-12 0:00
+695,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,PDX,Closed,Medium,2022-07-16 0:00
+696,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-09-12 0:00
+697,Missing cargo (All/Part),1,YVR,Assigned to report owner,Low,2022-09-15 0:00
+698,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-08-12 0:00
+699,Packaging - Damaged in transport,1,YYZ,Closed,Low,2022-08-21 0:00
+700,Packaging - Damaged in transport,1,BOS,Closed,Low,2022-07-31 0:00
+701,Build Up-Insufficient,1,JFK,Closed,Low,2022-08-30 0:00
+702,Build Up-Insufficient,1,GDL,Assigned to report owner,Medium,2022-10-22 0:00
+703,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,GDL,Assigned to report owner,Low,2022-09-12 0:00
+704,Build Up-Insufficient,1,ORD,Closed,Medium,2022-09-16 0:00
+705,Build Up-Insufficient,1,YYZ,Assigned to report owner,Medium,2022-10-20 0:00
+706,Carrier Performance - Shipment not re-booked,1,YYZ,Closed,Low,2022-08-23 0:00
+707, Truck-Incorrect Equipment Type,1,HDQ,Assigned to report owner,Medium,2022-10-27 0:00
+708,Temperature Exposure - Reported (customer),1,SJU,Assigned to report owner,Critical,2022-11-07 0:00
+709,Booking/Handling,1,JFK,Closed,Critical,2022-10-11 0:00
+710,Equipment - Unserviceable,2,JFK,Closed,Medium,2022-10-05 0:00
+711,Build Up-Insufficient,1,JFK,Closed,Low,2022-09-25 0:00
+712,Illegal Wildlife Trade (IWT),1,YYZ,Assigned to report owner,Medium,2022-10-04 0:00
+713,Illegal Wildlife Trade (IWT),1,LAX,Closed,Low,2022-09-20 0:00
+714,Illegal Wildlife Trade (IWT),1,LAX,Closed,Low,2022-10-11 0:00
+715,Illegal Wildlife Trade (IWT),1,SJU,Closed,Low,2022-10-02 0:00
+716,Illegal Wildlife Trade (IWT),1,,Closed,Low,2022-10-09 0:00
+717,Illegal Wildlife Trade (IWT),1,YYZ,Assigned to report owner,Medium,2022-10-18 0:00
+718,Illegal Wildlife Trade (IWT),1,ORD,Closed,Medium,2022-09-11 0:00
+719,Illegal Wildlife Trade (IWT),1,NRT,Closed,,2022-08-26 0:00
+720,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Low,2022-08-26 0:00
+721,Illegal Wildlife Trade (IWT),1,YVR,Assigned to report owner,Low,2022-09-15 0:00
+722,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Low,2022-09-24 0:00
+723,Illegal Wildlife Trade (IWT),1,LAX,Assigned to report owner,Medium,2022-10-18 0:00
+724,Illegal Wildlife Trade (IWT),1,JFK,Closed,Low,2022-09-07 0:00
+725,Illegal Wildlife Trade (IWT),1,DTW,Closed,Medium,2022-09-15 0:00
+726,Illegal Wildlife Trade (IWT),1,DTW,Closed,Low,2022-09-24 0:00
+727,Illegal Wildlife Trade (IWT),1,IAD,Closed,Low,2022-10-09 0:00
+728,Illegal Wildlife Trade (IWT),1,YYZ,Assigned to report owner,Medium,2022-10-21 0:00
+729,Illegal Wildlife Trade (IWT),1,GRU,Assigned to report owner,Medium,2022-09-20 0:00
+730,Illegal Wildlife Trade (IWT),1,LHR,Assigned to report owner,Critical,2022-09-14 0:00
+731,Illegal Wildlife Trade (IWT),1,LHR,Assigned to report owner,Low,2022-10-10 0:00
+732,Illegal Wildlife Trade (IWT),1,LHR,Closed,Medium,2022-10-05 0:00
+733,Illegal Wildlife Trade (IWT),1,YYZ,Assigned to report owner,Medium,2022-10-25 0:00
+734,Equipment - Unserviceable,1,HDQ,Assigned to report owner,Medium,2022-10-23 0:00
+735,Customer Error,1,ORD,Assigned to report owner,Medium,2022-10-25 0:00
+736,UN-manifested Mishandling,1,YYZ,Assigned to report owner,Critical,2022-10-20 0:00
+737,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,CVG,Assigned to report owner,Medium,2022-10-02 0:00
+738,Packaging - Damaged in transport,1,AIRTIME,Closed,Medium,2022-09-26 0:00
+739,Build Up-Insufficient,1,ORD,Assigned to report owner,Medium,2022-10-16 0:00
+740,Equipment - Unserviceable,1,ORD,Closed,Low,2022-10-16 0:00
+741,Build Up-Insufficient,1,DTW,Closed,Low,2022-09-27 0:00
+742,Carrier Performance - Delayed/Bumped,1,YYZ,Closed,Critical,2022-09-30 0:00
+743,Build Up-Insufficient,1,GDL,Assigned to report owner,Medium,2022-10-03 0:00
+744,Missing/Insufficient - Documentation/Permits,1,YVR,Closed,Medium,2022-10-13 0:00
+745,Build Up-Insufficient,1,YYZ,Report initiated,Medium,2022-10-24 0:00
+746,Booking/Handling,1,YYZ,Assigned to report owner,Medium,2022-10-14 0:00
+747,Booking/Handling,1,JFK,Closed,Medium,2022-10-12 0:00
+748,Booking/Handling,1,PDX,Assigned to report owner,Medium,2022-11-05 0:00
+749,Carrier Performance - Delayed/Bumped,1,YYZ,Closed,Medium,2022-10-04 0:00
+750,Build Up-Insufficient,1,YYZ,Report initiated,Medium,2022-10-18 0:00
+751,Clarification Required,1,,Closed,,2022-10-10 0:00
+752,Packaging - Damaged in transport,1,YYZ,Closed,Medium,2022-10-10 0:00
+753,Build Up-Insufficient,1,ORD,Assigned to report owner,Medium,2022-11-03 0:00
+754,Build Up-Insufficient,1,SJU,Assigned to report owner,Critical,2022-10-31 0:00
+755,Build Up-Insufficient,1,ORD,Assigned to report owner,Medium,2022-10-30 0:00
+756,Build Up-Insufficient,1,YUL,Closed,Medium,2022-10-27 0:00
+757,Booking/Handling,1,CSU,Assigned to report owner,Critical,2022-11-05 0:00
+758,Booking/Handling,1,LAX,Closed,Medium,2022-09-15 0:00
+759,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DUB,Closed,Low,2022-09-27 0:00
+760,UN-manifested Mishandling,1,YYZ,Assigned to report owner,Critical,2022-10-25 0:00
+761,Booking/Handling,1,YVR,Assigned to report owner,Medium,2022-09-22 0:00
+762,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-09-26 0:00
+763,Carrier Performance - Delayed/Bumped,1,YYZ,Assigned to report owner,Low,2022-09-28 0:00
+764,Carrier Performance - Delayed/Bumped,1,YYZ,Closed,Medium,2022-10-05 0:00
+765,SOP non-conformance,1,YHZ,Closed,Low,2022-10-11 0:00
+766, SOP non-conformance,1,BRU,Assigned to report owner,Medium,2022-10-11 0:00
+767,Missing/Insufficient - Documentation/Permits,1,YVR,Assigned to report owner,Low,2022-10-11 0:00
+768,Build Up-Insufficient,1,YYZ,Assigned to report owner,Medium,2022-10-25 0:00
+769,Planning-Incorrect process,1,YYZ,Assigned to report owner,Medium,2022-10-25 0:00
+770,UN-manifested Mishandling,1,YYZ,Assigned to report owner,Medium,2022-10-25 0:00
+771,Customer Error,1,,Closed,,2022-10-21 0:00
+772,Illegal Wildlife Trade (IWT),1,JFK,Closed,Low,2022-10-21 0:00
+773,Illegal Wildlife Trade (IWT),1,HDQ,Closed,Medium,2022-10-22 0:00
+774,Illegal Wildlife Trade (IWT),1,YXT,Assigned to report owner,Medium,2022-10-20 0:00
+775,Illegal Wildlife Trade (IWT),1,HDQ,Closed,Medium,2022-10-21 0:00
+776,Illegal Wildlife Trade (IWT),1,DUB,Assigned to report owner,Medium,2022-10-27 0:00
+777,Illegal Wildlife Trade (IWT),1,YYZ,Report initiated,Medium,2022-11-08 0:00
+778,Illegal Wildlife Trade (IWT),1,YVR,Closed,Medium,2022-05-16 0:00
+779,Illegal Wildlife Trade (IWT),1,MIA,Closed,Critical,2022-05-30 0:00
+780,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Medium,2022-06-27 0:00
+781,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Medium,2022-03-26 0:00
+782,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Medium,2022-01-16 0:00
+783,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Critical,2022-04-27 0:00
+784,Illegal Wildlife Trade (IWT),1,YYZ,Closed,Critical,2022-06-12 0:00
+785,Illegal Wildlife Trade (IWT),1,LIM,Closed,Critical,2022-04-19 0:00
+786,Illegal Wildlife Trade (IWT),1,NRT,Closed,,2022-07-09 0:00
+787,Illegal Wildlife Trade (IWT),1,LIM,Closed,Critical,2022-06-13 0:00
+788,Illegal Wildlife Trade (IWT),1,LIM,Assigned to report owner,Medium,2022-08-12 0:00
+789,Illegal Wildlife Trade (IWT),1,YUL,Closed,Medium,2022-05-09 0:00
+790,Illegal Wildlife Trade (IWT),1,YUL,Closed,Medium,2022-05-09 0:00
+791,Illegal Wildlife Trade (IWT),1,HDQ,Closed,Medium,2022-05-12 0:00
+792,Illegal Wildlife Trade (IWT),1,HDQ,Closed,Medium,2022-06-16 0:00
+793,Trucking-Incorrect pickup/delivery location,1,YYZ,Closed,Medium,2022-06-21 0:00
+794,Trucking-Incorrect pickup/delivery location,1,HDQ,Closed,Medium,2022-06-21 0:00
+795,Trucking-OTP Dep/Arr,1,HDQ,Closed,Low,2022-06-22 0:00
+796,Truck-Lost freight,1,YYZ RAMP,Closed,Medium,2022-06-29 0:00
+797,Truck-Lost freight,1,YYZ,Closed,Medium,2022-06-28 0:00
+798,Carrier Performance - Shipment not re-booked,1,YYZ,Closed,Medium,2022-07-05 0:00
+799,Trucking-OTP Dep/Arr,1,HDQ,Assigned to report owner,Medium,2022-07-05 0:00
+800,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-07-06 0:00
+801,Trucking-Incorrect pickup/delivery location,1,HDQ,Assigned to report owner,Medium,2022-07-08 0:00
+802,Delay/Not delivered to AC2,1,YYZ,Closed,Critical,2022-07-21 0:00
+803,Trucking-OTP Dep/Arr,1,HDQ,Closed,Medium,2022-07-21 0:00
+804,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-07-21 0:00
+805,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-07-21 0:00
+806,Delay/Not delivered to AC2,1,YYZ,Closed,Critical,2022-07-22 0:00
+807,Trucking-OTP Dep/Arr,1,HDQ,Assigned to report owner,Medium,2022-08-10 0:00
+808,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-08-10 0:00
+809,Delay/Not delivered to AC2,1,YYZ,Closed,Low,2022-08-25 0:00
+810,Delay/Not delivered to AC2,1,YYZ,Assigned to report owner,Low,2022-08-29 0:00
+811,Delay/Not delivered to AC2,1,YYZ,Assigned to report owner,Low,2022-08-29 0:00
+812,Delay/Not delivered to AC2,1,HDQ,Assigned to report owner,Low,2022-08-30 0:00
+813,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-09-13 0:00
+814,Delay/Not delivered to AC2,1,YYZ,Assigned to report owner,Medium,2022-09-13 0:00
+815,Delay/Not delivered to AC2,1,YYZ,Assigned to report owner,Low,2022-09-14 0:00
+816,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-09-20 0:00
+817,Delay/Not delivered to AC2,1,HDQ,Assigned to report owner,Medium,2022-09-28 0:00
+818,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-10-12 0:00
+819,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-10-12 0:00
+820,Delay/Not delivered to AC2,1,YYZ,Closed,,2022-10-14 0:00
+821,Trucking-OTP Dep/Arr,1,HDQ,Assigned to report owner,Medium,2022-10-19 0:00
+822,Delay/Not delivered to AC2,1,YYZ,Closed,Medium,2022-10-21 0:00
+823,Carrier Performance - Missed flight,1,YYZ,Closed,Medium,2022-03-30 0:00
+824,Booking/Handling,1,TLV,Closed,Critical,2022-04-05 0:00
+825,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-02-16 0:00
+826, SOP non-conformance,1,YYZ,Closed,Medium,2022-04-27 0:00
+827,Temperature Exposure - Reported (customer),1,YVR,Closed,Critical,2022-03-02 0:00
+828,Planning-Incorrect process,1,YYZ,Closed,Critical,2022-06-13 0:00
+829,Clarification Required,1,,Closed,,2022-09-07 0:00
+830,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-03-14 0:00
+831,Booking/Handling,1,YYZ,Closed,Critical,2022-02-14 0:00
+832,Temperature Exposure - Reported (customer),1,DOH,Closed,Medium,2022-04-27 0:00
+833,No/Insufficient Temperature Storage,1,FCO,Closed,Medium,2022-06-08 0:00
+834,UN-manifested Mishandling,1,FLL,Assigned to report owner,Medium,2022-11-04 0:00
+835,Booking/Handling,1,YYZ,Closed,Critical,2022-01-18 0:00
+836,Build Up-Insufficient,1,BOS,Closed,Medium,2022-06-11 0:00
+837,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,LHR,Assigned to report owner,Medium,2022-11-07 0:00
+838,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,LHR,Closed,Low,2022-09-30 0:00
+839,Booking/Handling,1,YYZ,Closed,Medium,2022-03-27 0:00
+840,Booking/Handling,1,ZRH,Assigned to report owner,Medium,2022-10-20 0:00
+841,Planning-Incorrect process,1,YYZ,Closed,Critical,2022-06-07 0:00
+842,Booking/Handling,1,YYZ,Closed,Medium,2022-02-22 0:00
+843,Build Up-Insufficient,1,JFK,Closed,Medium,2022-04-11 0:00
+844,Equipment - Unserviceable,2,JFK,Closed,Medium,2022-04-11 0:00
+845,Equipment - Unserviceable,1,ORD,Closed,Medium,2022-04-11 0:00
+846,Trucking-OTP Dep/Arr,1,ORD,Closed,Medium,2022-04-10 0:00
+847,SOP non-conformance,1,HDQ,Assigned to report owner,Critical,2022-09-21 0:00
+848,Planning-Incorrect process,1,YVR,Closed,Medium,2022-06-10 0:00
+849,Planning-Incorrect process,1,YVR,Closed,Medium,2022-08-06 0:00
+850,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Critical,2022-06-11 0:00
+851,Planning-Incorrect process,1,YYZ,Closed,Low,2022-08-09 0:00
+852,Planning-Incorrect process,1,YYZ,Assigned to report owner,Medium,2022-10-25 0:00
+853,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DEL,Closed,Medium,2022-10-26 0:00
+854,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DEL,Closed,Medium,2022-10-26 0:00
+855,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DEL,Closed,Medium,2022-10-26 0:00
+856,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,DEL,Closed,Medium,2022-10-26 0:00
+857,SOP non-conformance,1,YYZ,Closed,Medium,2022-05-17 0:00
+858,Carrier Performance - Delayed/Bumped,1,YYZ,Assigned to report owner,Medium,2022-10-24 0:00
+859,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-06-21 0:00
+860,Missing/Insufficient - Documentation/Permits,1,YYZ,Assigned to report owner,Medium,2022-10-18 0:00
+861,Planning-Incorrect process,1,,Report submitted for review,,2022-11-05 0:00
+862,Temperature Exposure - Observed (internal),1,YYZ,Closed,Low,2022-06-23 0:00
+863,Planning-Incorrect process,1,YYZ,Closed,Medium,2022-06-02 0:00
+864,Planning-Incorrect process,1,YYZ,Closed,Critical,2022-06-07 0:00
+865,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-05-09 0:00
+866, SOP non-conformance,1,YYZ,Closed,Medium,2022-08-20 0:00
+867,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-07-15 0:00
+868,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-08-11 0:00
+869,Ramp Handling,1,YUL,Closed,Medium,2022-04-17 0:00
+870,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Low,2022-08-20 0:00
+871,Planning-Incorrect process,1,YYZ,Closed,Medium,2022-04-28 0:00
+872, SOP non-conformance,1,YVR,Closed,Critical,2022-05-22 0:00
+873,Missing/Insufficient - Documentation/Permits,1,GVA,Assigned to report owner,Medium,2022-05-12 0:00
+874,Carrier Performance - Delayed/Bumped,1,HDQ,Assigned to report owner,Medium,2022-11-06 0:00
+875,Trucking-OTP Dep/Arr,1,HDQ,Closed,Low,2022-08-20 0:00
+876, SOP non-conformance,1,YYZ,Closed,Medium,2022-05-12 0:00
+877,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,IAD,Closed,Critical,2022-06-13 0:00
+878,UN-manifested Mishandling,1,YUL,Closed,Medium,2022-05-18 0:00
+879,SOP non-conformance,1,YYZ,Closed,Medium,2022-06-09 0:00
+880, SOP non-conformance,1,PHL,Closed,Low,2022-08-22 0:00
+881,Clarification Required,1,,Closed,,2022-08-22 0:00
+882,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-03-24 0:00
+883,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-07-25 0:00
+884,Freighter-Incorrect build plan/load entry,1,YYZ,Assigned to report owner,Medium,2022-10-04 0:00
+885,Build Up-Insufficient,1,YYZ,Closed,Medium,2022-05-23 0:00
+886,Build Up-Insufficient,1,YYZ,Closed,Critical,2022-05-22 0:00
+887,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-06-09 0:00
+888,Packaging - Damaged in transport,1,MAD,Closed,Medium,2022-04-23 0:00
+889, Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-01-23 0:00
+890,Planning-Incorrect process,1,YYZ,Closed,Low,2022-08-12 0:00
+891,Equipment - Unserviceable,1,YYZ,Closed,Medium,2022-03-29 0:00
+892,Planning-Incorrect process,1,YYZ,Closed,Critical,2022-06-07 0:00
+893,UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-02-17 0:00
+894,Ramp Handling,1,YYZ,Closed,Medium,2022-06-03 0:00
+895, SOP non-conformance,1,YYZ,Closed,Medium,2022-04-02 0:00
+896,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Low,2022-08-03 0:00
+897,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-07-22 0:00
+898,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-03-31 0:00
+899, SOP non-conformance,1,YYZ,Closed,Medium,2022-07-22 0:00
+900,Missing/Insufficient - Documentation/Permits,1,YYZ,Closed,Medium,2022-08-05 0:00
+901,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-06-09 0:00
+902, SOP non-conformance,1,YYC,Closed,Medium,2022-04-29 0:00
+903,Missing/Insufficient - Documentation/Permits,1,YUL,Closed,Medium,2022-06-13 0:00
+904, SOP non-conformance,1,YUL,Closed,Medium,2022-10-21 0:00
+905,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-23 0:00
+906,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-23 0:00
+907,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-23 0:00
+908,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-23 0:00
+909,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-23 0:00
+910,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-25 0:00
+911,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-25 0:00
+912,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Critical,2022-10-26 0:00
+913,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,FCO,Assigned to report owner,Medium,2022-10-28 0:00
+914,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,MXP,Assigned to report owner,Critical,2022-10-26 0:00
+915,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,MXP,Assigned to report owner,Critical,2022-10-26 0:00
+916,Inaccurate/Incomplete Air Waybill - Incorrect/Missing details,1,MXP,Assigned to report owner,Medium,2022-10-28 0:00
+917,Ramp Handling,1,YYZ,Closed,Critical,2022-06-10 0:00
+918,Build Up-Insufficient,1,,Report submitted for review,,2022-11-08 0:00
+919,UN-manifested Mishandling,1,YYZ,Closed,Medium,2022-04-29 0:00
+920,Clarification Required,1,,Closed,,2022-09-08 0:00
+921,Build Up-Insufficient,1,MEX,Assigned to report owner,Critical,2022-10-03 0:00
+922,Carrier Performance - Delayed/Bumped,1,YVR,Closed,Low,2022-08-25 0:00
+923,Packaging - Insufficient,1,HDQ,Closed,Critical,2022-05-21 0:00
+924,Build Up-Insufficient,1,,Closed,,2022-08-26 0:00
+925,Booking/Handling,1,YUL,Closed,Medium,2022-04-12 0:00
+926,Delay/Not delivered to AC2,1,YYZ,Closed,Low,2022-10-03 0:00
+927,"
+Audit Observation",5,AMS,Closed,Medium,2022-06-02 0:00
+928,Audit Finding,3,AMS,Closed,Medium,2022-06-02 0:00
+929,"
+Audit Observation",1,ORD,Closed,Low,2022-05-01 0:00
+930,Audit Finding,1,LHR,Closed,Medium,2022-03-30 0:00
+931,Audit Finding,1,YYZ,Closed,Medium,2022-04-28 0:00
+932,Audit Finding,1,GVA,Assigned to report owner,Critical,2022-11-01 0:00
+933,Audit Finding,1,GVA,Assigned to report owner,Critical,2022-11-01 0:00

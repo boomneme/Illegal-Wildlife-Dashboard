@@ -1,0 +1,786 @@
+﻿Destination Country,Destination Station,IWT Risk,Origin Country,Origin Station,Route Type
+Algeria,ALG,N,Canada,YUL,PAX
+Antigua & Barbuda,ANU,N,Canada,YUL,PAX
+Antigua & Barbuda,ANU,N,Canada,YYZ,PAX
+Argentina,EZE,Y,Brazil,GRU,PAX
+Aruba,AUA,N,Canada,YYZ,PAX
+Australia,BNE,N,Canada,YVR,PAX
+Australia,SYD,N,Canada,YVR,PAX
+Austria,VIE,N,Canada,YYZ,PAX
+Bahamas,GGT,N,Canada,YYZ,PAX
+Bahamas,NAS,N,Canada,YUL,PAX
+Bahamas,NAS,N,Canada,YYZ,PAX
+Bahamas,ZSA,N,Canada,YUL,PAX
+Barbados,BGI,N,Canada,YUL,PAX
+Barbados,BGI,N,Canada,YYZ,PAX
+Belgium,BRU,N,Canada,YUL,PAX
+Belgium,BRU,N,Canada,YYZ,PAX
+Belize,BZE,N,Canada,YYZ,PAX
+Bermuda,BDA,N,Canada,YYZ,PAX
+Brazil,GRU,N,Canada,YUL,PAX
+Brazil,GRU,N,Canada,YYZ,PAX
+Brazil,GRU,Y,Argentina,EZE,PAX
+Canada,YAM,N,Canada,YYZ,PAX
+Canada,YBG,N,Canada,YUL,PAX
+Canada,YCD,N,Canada,YVR,PAX
+Canada,YCD,N,Canada,YYC,PAX
+Canada,YCD,N,Canada,YYZ,PAX
+Canada,YCG,N,Canada,YVR,PAX
+Canada,YCG,N,Canada,YYC,PAX
+Canada,YDF,N,Canada,YHZ,PAX
+Canada,YDF,N,Canada,YUL,PAX
+Canada,YDF,N,Canada,YYZ,PAX
+Canada,YEG,N,Canada,YUL,PAX
+Canada,YEG,N,Canada,YVR,PAX
+Canada,YEG,N,Canada,YYC,PAX
+Canada,YEG,N,Canada,YYZ,PAX
+Canada,YEG,N,Canada,YZF,PAX
+Canada,YEG,N,United States,SFO,PAX
+Canada,YEG,Y,Mexico,CUN,PAX
+Canada,YFC,N,Canada,YUL,PAX
+Canada,YFC,N,Canada,YYZ,PAX
+Canada,YGR,N,Canada,YUL,PAX
+Canada,YHZ,N,Canada,YDF,PAX
+Canada,YHZ,N,Canada,YOW,PAX
+Canada,YHZ,N,Canada,YQX,PAX
+Canada,YHZ,N,Canada,YUL,PAX
+Canada,YHZ,N,Canada,YVR,PAX
+Canada,YHZ,N,Canada,YYC,PAX
+Canada,YHZ,N,Canada,YYR,PAX
+Canada,YHZ,N,Canada,YYT,PAX
+Canada,YHZ,N,Canada,YYZ,CARGO
+Canada,YHZ,N,Canada,YYZ,PAX
+Canada,YHZ,N,Dominican Republic,PUJ,PAX
+Canada,YHZ,N,United Kingdom,LHR,PAX
+Canada,YHZ,N,United States,BOS,PAX
+Canada,YHZ,N,United States,EWR,PAX
+Canada,YHZ,N,United States,MCO,PAX
+Canada,YHZ,N,United States,TPA,PAX
+Canada,YHZ,Y,Mexico,CUN,PAX
+Canada,YKA,N,Canada,YVR,PAX
+Canada,YKA,N,Canada,YYC,PAX
+Canada,YLW,N,Canada,YUL,PAX
+Canada,YLW,N,Canada,YVR,PAX
+Canada,YLW,N,Canada,YYC,PAX
+Canada,YLW,N,Canada,YYZ,PAX
+Canada,YMM,N,Canada,YYC,PAX
+Canada,YMM,N,Canada,YYZ,PAX
+Canada,YOW,N,Canada,YHZ,PAX
+Canada,YOW,N,Canada,YQB,PAX
+Canada,YOW,N,Canada,YTZ,PAX
+Canada,YOW,N,Canada,YUL,PAX
+Canada,YOW,N,Canada,YVR,PAX
+Canada,YOW,N,Canada,YWG,PAX
+Canada,YOW,N,Canada,YYC,PAX
+Canada,YOW,N,Canada,YYZ,PAX
+Canada,YOW,N,District of Columbia,DCA,PAX
+Canada,YOW,N,Dominican Republic,PUJ,PAX
+Canada,YOW,N,United States,EWR,PAX
+Canada,YOW,N,United States,FLL,PAX
+Canada,YOW,N,United States,MCO,PAX
+Canada,YOW,N,United States,TPA,PAX
+Canada,YOW,Y,Mexico,CUN,PAX
+Canada,YPR,N,Canada,YVR,PAX
+Canada,YQB,N,Canada,YOW,PAX
+Canada,YQB,N,Canada,YUL,PAX
+Canada,YQB,N,Canada,YVR,PAX
+Canada,YQB,N,Canada,YYC,PAX
+Canada,YQB,N,Canada,YYZ,PAX
+Canada,YQB,N,Cuba,VRA,PAX
+Canada,YQB,N,Dominican Republic,PUJ,PAX
+Canada,YQB,N,United States,FLL,PAX
+Canada,YQB,N,United States,MCO,PAX
+Canada,YQB,Y,Mexico,CUN,PAX
+Canada,YQG,N,Canada,YYZ,PAX
+Canada,YQM,N,Canada,YUL,PAX
+Canada,YQM,N,Canada,YYZ,PAX
+Canada,YQQ,N,Canada,YVR,PAX
+Canada,YQR,N,Canada,YVR,PAX
+Canada,YQR,N,Canada,YXE,PAX
+Canada,YQR,N,Canada,YYC,PAX
+Canada,YQR,N,Canada,YYZ,PAX
+Canada,YQT,N,Canada,YYZ,PAX
+Canada,YQU,N,Canada,YYC,PAX
+Canada,YQX,N,Canada,YHZ,PAX
+Canada,YQX,N,Canada,YUL,PAX
+Canada,YQX,N,Canada,YYZ,PAX
+Canada,YQY,N,Canada,YUL,PAX
+Canada,YQY,N,Canada,YYZ,PAX
+Canada,YSB,N,Canada,YYZ,PAX
+Canada,YSJ,N,Canada,YUL,PAX
+Canada,YSJ,N,Canada,YYZ,PAX
+Canada,YTS,N,Canada,YYZ,PAX
+Canada,YTZ,N,Canada,YOW,PAX
+Canada,YTZ,N,Canada,YUL,PAX
+Canada,YUL,N,Algeria,ALG,PAX
+Canada,YUL,N,Antigua & Barbuda,ANU,PAX
+Canada,YUL,N,Bahamas,NAS,PAX
+Canada,YUL,N,Bahamas,ZSA,PAX
+Canada,YUL,N,Barbados,BGI,PAX
+Canada,YUL,N,Belgium,BRU,PAX
+Canada,YUL,N,Canada,YBG,PAX
+Canada,YUL,N,Canada,YDF,PAX
+Canada,YUL,N,Canada,YEG,PAX
+Canada,YUL,N,Canada,YFC,PAX
+Canada,YUL,N,Canada,YGR,PAX
+Canada,YUL,N,Canada,YHZ,PAX
+Canada,YUL,N,Canada,YLW,PAX
+Canada,YUL,N,Canada,YOW,PAX
+Canada,YUL,N,Canada,YQB,PAX
+Canada,YUL,N,Canada,YQM,PAX
+Canada,YUL,N,Canada,YQR,PAX
+Canada,YUL,N,Canada,YQX,PAX
+Canada,YUL,N,Canada,YQY,PAX
+Canada,YUL,N,Canada,YSJ,PAX
+Canada,YUL,N,Canada,YTZ,PAX
+Canada,YUL,N,Canada,YUY,PAX
+Canada,YUL,N,Canada,YVR,PAX
+Canada,YUL,N,Canada,YWG,PAX
+Canada,YUL,N,Canada,YXU,PAX
+Canada,YUL,N,Canada,YYC,PAX
+Canada,YUL,N,Canada,YYG,PAX
+Canada,YUL,N,Canada,YYJ,PAX
+Canada,YUL,N,Canada,YYT,PAX
+Canada,YUL,N,Canada,YYZ,PAX
+Canada,YUL,N,Canada,YZV,PAX
+Canada,YUL,N,Canada,ZBF,PAX
+Canada,YUL,N,China,PVG,PAX
+Canada,YUL,N,Cuba,CCC,PAX
+Canada,YUL,N,Cuba,HOG,PAX
+Canada,YUL,N,Cuba,SNU,PAX
+Canada,YUL,N,Cuba,VRA,PAX
+Canada,YUL,N,Denmark,CPH,PAX
+Canada,YUL,N,District of Columbia,DCA,PAX
+Canada,YUL,N,District of Columbia,IAD,PAX
+Canada,YUL,N,Dominican Republic,AZS,PAX
+Canada,YUL,N,Dominican Republic,POP,PAX
+Canada,YUL,N,Dominican Republic,PUJ,PAX
+Canada,YUL,N,Egypt,CAI,PAX
+Canada,YUL,N,France,CDG,PAX
+Canada,YUL,N,France,LYS,PAX
+Canada,YUL,N,France,NCE,PAX
+Canada,YUL,N,France,TLS,PAX
+Canada,YUL,N,Germany,FRA,PAX
+Canada,YUL,N,Greece,ATH,PAX
+Canada,YUL,N,Guadeloupe,PTP,PAX
+Canada,YUL,N,Iceland,KEF,PAX
+Canada,YUL,N,India,DEL,PAX
+Canada,YUL,N,Ireland,DUB,PAX
+Canada,YUL,N,Israel,TLV,PAX
+Canada,YUL,N,Italy,FCO,PAX
+Canada,YUL,N,Italy,MXP,PAX
+Canada,YUL,N,Italy,VCE,PAX
+Canada,YUL,N,Jamaica,MBJ,PAX
+Canada,YUL,N,Japan,NRT,PAX
+Canada,YUL,N,Martinique,FDF,PAX
+Canada,YUL,N,Morocco,CMN,PAX
+Canada,YUL,N,Netherlands Antilles,CUR,PAX
+Canada,YUL,N,Portugal,LIS,PAX
+Canada,YUL,N,Puerto Rico,SJU,PAX
+Canada,YUL,N,Spain,BCN,PAX
+Canada,YUL,N,Switzerland,GVA,PAX
+Canada,YUL,N,Turks Caicos,PLS,PAX
+Canada,YUL,N,United Kingdom,LHR,PAX
+Canada,YUL,N,United States,ATL,PAX
+Canada,YUL,N,United States,BNA,PAX
+Canada,YUL,N,United States,BOS,PAX
+Canada,YUL,N,United States,DEN,PAX
+Canada,YUL,N,United States,DFW,PAX
+Canada,YUL,N,United States,DTW,PAX
+Canada,YUL,N,United States,EWR,PAX
+Canada,YUL,N,United States,FLL,PAX
+Canada,YUL,N,United States,IAH,PAX
+Canada,YUL,N,United States,LAS,PAX
+Canada,YUL,N,United States,LAX,PAX
+Canada,YUL,N,United States,LGA,PAX
+Canada,YUL,N,United States,MCO,PAX
+Canada,YUL,N,United States,MIA,PAX
+Canada,YUL,N,United States,MSP,PAX
+Canada,YUL,N,United States,MSY,PAX
+Canada,YUL,N,United States,ORD,PAX
+Canada,YUL,N,United States,PBI,PAX
+Canada,YUL,N,United States,PHL,PAX
+Canada,YUL,N,United States,PHX,PAX
+Canada,YUL,N,United States,PIT,PAX
+Canada,YUL,N,United States,RDU,PAX
+Canada,YUL,N,United States,RSW,PAX
+Canada,YUL,N,United States,SAN,PAX
+Canada,YUL,N,United States,SEA,PAX
+Canada,YUL,N,United States,SFO,PAX
+Canada,YUL,N,United States,TPA,PAX
+Canada,YUL,Y,Brazil,GRU,PAX
+Canada,YUL,Y,Colombia,BOG,PAX
+Canada,YUL,Y,Costa Rica,LIR,PAX
+Canada,YUL,Y,Costa Rica,SJO,PAX
+Canada,YUL,Y,Mexico,CUN,PAX
+Canada,YUL,Y,Mexico,CZM,PAX
+Canada,YUL,Y,Mexico,MEX,PAX
+Canada,YUL,Y,Mexico,PVR,PAX
+Canada,YUL,Y,Mexico,ZIH,PAX
+Canada,YUL,Y,Peru,LIM,PAX
+Canada,YUY,N,Canada,YUL,PAX
+Canada,YVR,N,Australia,BNE,PAX
+Canada,YVR,N,Australia,SYD,PAX
+Canada,YVR,N,Canada,YCD,PAX
+Canada,YVR,N,Canada,YCG,PAX
+Canada,YVR,N,Canada,YEG,PAX
+Canada,YVR,N,Canada,YHZ,PAX
+Canada,YVR,N,Canada,YKA,PAX
+Canada,YVR,N,Canada,YLW,PAX
+Canada,YVR,N,Canada,YOW,PAX
+Canada,YVR,N,Canada,YPR,PAX
+Canada,YVR,N,Canada,YQB,PAX
+Canada,YVR,N,Canada,YQQ,PAX
+Canada,YVR,N,Canada,YQR,PAX
+Canada,YVR,N,Canada,YUL,PAX
+Canada,YVR,N,Canada,YWG,PAX
+Canada,YVR,N,Canada,YXC,PAX
+Canada,YVR,N,Canada,YXE,PAX
+Canada,YVR,N,Canada,YXJ,PAX
+Canada,YVR,N,Canada,YXS,PAX
+Canada,YVR,N,Canada,YXT,PAX
+Canada,YVR,N,Canada,YXY,PAX
+Canada,YVR,N,Canada,YYC,PAX
+Canada,YVR,N,Canada,YYD,PAX
+Canada,YVR,N,Canada,YYF,PAX
+Canada,YVR,N,Canada,YYJ,PAX
+Canada,YVR,N,Canada,YYZ,PAX
+Canada,YVR,N,Canada,YZF,PAX
+Canada,YVR,N,Canada,YZP,PAX
+Canada,YVR,N,China,PEK,PAX
+Canada,YVR,N,China,PVG,PAX
+Canada,YVR,N,Germany,FRA,PAX
+Canada,YVR,N,Hong Kong,HKG,PAX
+Canada,YVR,N,India,DEL,PAX
+Canada,YVR,N,Ireland,DUB,PAX
+Canada,YVR,N,Japan,KIX,PAX
+Canada,YVR,N,Japan,NRT,PAX
+Canada,YVR,N,Korea,ICN,PAX
+Canada,YVR,N,New Zealand,AKL,PAX
+Canada,YVR,N,Switzerland,ZRH,PAX
+Canada,YVR,N,Thailand,BKK,PAX
+Canada,YVR,N,United Kingdom,LHR,PAX
+Canada,YVR,N,United States,ANC,PAX
+Canada,YVR,N,United States,AUS,PAX
+Canada,YVR,N,United States,BOS,PAX
+Canada,YVR,N,United States,DEN,PAX
+Canada,YVR,N,United States,EWR,PAX
+Canada,YVR,N,United States,HNL,PAX
+Canada,YVR,N,United States,IAH,PAX
+Canada,YVR,N,United States,KOA,PAX
+Canada,YVR,N,United States,LAS,PAX
+Canada,YVR,N,United States,LAX,PAX
+Canada,YVR,N,United States,MIA,PAX
+Canada,YVR,N,United States,OGG,PAX
+Canada,YVR,N,United States,ORD,PAX
+Canada,YVR,N,United States,PDX,PAX
+Canada,YVR,N,United States,PHX,PAX
+Canada,YVR,N,United States,PSP,PAX
+Canada,YVR,N,United States,SAN,PAX
+Canada,YVR,N,United States,SEA,PAX
+Canada,YVR,N,United States,SFO,PAX
+Canada,YVR,N,United States,SMF,PAX
+Canada,YVR,N,United States,SNA,PAX
+Canada,YVR,Y,Mexico,CUN,PAX
+Canada,YVR,Y,Mexico,MEX,PAX
+Canada,YVR,Y,Mexico,PVR,PAX
+Canada,YVR,Y,Mexico,SJD,PAX
+Canada,YVR,Y,Mexico,ZIH,PAX
+Canada,YWG,N,Canada,YOW,PAX
+Canada,YWG,N,Canada,YUL,PAX
+Canada,YWG,N,Canada,YVR,PAX
+Canada,YWG,N,Canada,YYC,PAX
+Canada,YWG,N,Canada,YYZ,PAX
+Canada,YWG,Y,Mexico,CUN,PAX
+Canada,YXC,N,Canada,YVR,PAX
+Canada,YXE,N,Canada,YUL,PAX
+Canada,YXE,N,Canada,YVR,PAX
+Canada,YXE,N,Canada,YYC,PAX
+Canada,YXE,N,Canada,YYZ,PAX
+Canada,YXJ,N,Canada,YVR,PAX
+Canada,YXS,N,Canada,YVR,PAX
+Canada,YXT,N,Canada,YVR,PAX
+Canada,YXT,N,Canada,YYC,PAX
+Canada,YXU,N,Canada,YUL,PAX
+Canada,YXU,N,Canada,YYZ,PAX
+Canada,YXY,N,Canada,YVR,PAX
+Canada,YYB,N,Canada,YYZ,PAX
+Canada,YYC,N,Canada,YCD,PAX
+Canada,YYC,N,Canada,YCG,PAX
+Canada,YYC,N,Canada,YEG,PAX
+Canada,YYC,N,Canada,YHZ,PAX
+Canada,YYC,N,Canada,YKA,PAX
+Canada,YYC,N,Canada,YLW,PAX
+Canada,YYC,N,Canada,YMM,PAX
+Canada,YYC,N,Canada,YOW,PAX
+Canada,YYC,N,Canada,YQB,PAX
+Canada,YYC,N,Canada,YQR,PAX
+Canada,YYC,N,Canada,YQU,PAX
+Canada,YYC,N,Canada,YUL,PAX
+Canada,YYC,N,Canada,YVR,PAX
+Canada,YYC,N,Canada,YWG,PAX
+Canada,YYC,N,Canada,YXE,PAX
+Canada,YYC,N,Canada,YXT,PAX
+Canada,YYC,N,Canada,YYJ,PAX
+Canada,YYC,N,Canada,YYZ,PAX
+Canada,YYC,N,Canada,YZF,PAX
+Canada,YYC,N,Germany,FRA,PAX
+Canada,YYC,N,United Kingdom,LHR,PAX
+Canada,YYC,N,United States,EWR,PAX
+Canada,YYC,N,United States,HNL,PAX
+Canada,YYC,N,United States,IAH,PAX
+Canada,YYC,N,United States,LAS,PAX
+Canada,YYC,N,United States,LAX,PAX
+Canada,YYC,N,United States,OGG,PAX
+Canada,YYC,N,United States,PHX,PAX
+Canada,YYC,N,United States,SFO,PAX
+Canada,YYC,Y,Mexico,CUN,PAX
+Canada,YYC,Y,Mexico,PVR,PAX
+Canada,YYC,Y,Mexico,SJD,PAX
+Canada,YYD,N,Canada,YVR,PAX
+Canada,YYF,N,Canada,YVR,PAX
+Canada,YYG,N,Canada,YUL,PAX
+Canada,YYG,N,Canada,YYZ,PAX
+Canada,YYJ,N,Canada,YUL,PAX
+Canada,YYJ,N,Canada,YVR,PAX
+Canada,YYJ,N,Canada,YYC,PAX
+Canada,YYJ,N,Canada,YYZ,PAX
+Canada,YYR,N,Canada,YHZ,PAX
+Canada,YYT,N,Canada,YHZ,CARGO
+Canada,YYT,N,Canada,YHZ,PAX
+Canada,YYT,N,Canada,YUL,PAX
+Canada,YYT,N,Canada,YYZ,CARGO
+Canada,YYT,N,Canada,YYZ,PAX
+Canada,YYZ,N,Antigua & Barbuda,ANU,PAX
+Canada,YYZ,N,Aruba,AUA,PAX
+Canada,YYZ,N,Austria,VIE,PAX
+Canada,YYZ,N,Bahamas,GGT,PAX
+Canada,YYZ,N,Bahamas,NAS,PAX
+Canada,YYZ,N,Barbados,BGI,PAX
+Canada,YYZ,N,Belgium,BRU,PAX
+Canada,YYZ,N,Bermuda,BDA,PAX
+Canada,YYZ,N,Canada,YAM,PAX
+Canada,YYZ,N,Canada,YCD,PAX
+Canada,YYZ,N,Canada,YDF,PAX
+Canada,YYZ,N,Canada,YEG,PAX
+Canada,YYZ,N,Canada,YFC,PAX
+Canada,YYZ,N,Canada,YHZ,PAX
+Canada,YYZ,N,Canada,YLW,PAX
+Canada,YYZ,N,Canada,YMM,PAX
+Canada,YYZ,N,Canada,YOW,PAX
+Canada,YYZ,N,Canada,YQB,PAX
+Canada,YYZ,N,Canada,YQG,PAX
+Canada,YYZ,N,Canada,YQM,PAX
+Canada,YYZ,N,Canada,YQR,PAX
+Canada,YYZ,N,Canada,YQT,PAX
+Canada,YYZ,N,Canada,YQX,PAX
+Canada,YYZ,N,Canada,YQY,PAX
+Canada,YYZ,N,Canada,YSB,PAX
+Canada,YYZ,N,Canada,YSJ,PAX
+Canada,YYZ,N,Canada,YTS,PAX
+Canada,YYZ,N,Canada,YUL,PAX
+Canada,YYZ,N,Canada,YVR,PAX
+Canada,YYZ,N,Canada,YWG,PAX
+Canada,YYZ,N,Canada,YXE,PAX
+Canada,YYZ,N,Canada,YXU,PAX
+Canada,YYZ,N,Canada,YYB,PAX
+Canada,YYZ,N,Canada,YYC,PAX
+Canada,YYZ,N,Canada,YYG,PAX
+Canada,YYZ,N,Canada,YYJ,PAX
+Canada,YYZ,N,Canada,YYT,PAX
+Canada,YYZ,N,Cayman Islands,GCM,PAX
+Canada,YYZ,N,China,PEK,PAX
+Canada,YYZ,N,China,PVG,PAX
+Canada,YYZ,N,Cuba,CCC,PAX
+Canada,YYZ,N,Cuba,HAV,PAX
+Canada,YYZ,N,Cuba,HOG,PAX
+Canada,YYZ,N,Cuba,SNU,PAX
+Canada,YYZ,N,Cuba,VRA,PAX
+Canada,YYZ,N,Denmark,CPH,PAX
+Canada,YYZ,N,District of Columbia,DCA,PAX
+Canada,YYZ,N,District of Columbia,IAD,PAX
+Canada,YYZ,N,Dominican Republic,AZS,PAX
+Canada,YYZ,N,Dominican Republic,POP,PAX
+Canada,YYZ,N,Dominican Republic,PUJ,PAX
+Canada,YYZ,N,France,CDG,PAX
+Canada,YYZ,N,Germany,FRA,CARGO
+Canada,YYZ,N,Germany,FRA,PAX
+Canada,YYZ,N,Germany,MUC,PAX
+Canada,YYZ,N,Greece,ATH,PAX
+Canada,YYZ,N,Grenada,GND,PAX
+Canada,YYZ,N,Hong Kong,HKG,PAX
+Canada,YYZ,N,Iceland,KEF,PAX
+Canada,YYZ,N,India,DEL,PAX
+Canada,YYZ,N,Ireland,DUB,PAX
+Canada,YYZ,N,Israel,TLV,PAX
+Canada,YYZ,N,Italy,FCO,PAX
+Canada,YYZ,N,Italy,VCE,PAX
+Canada,YYZ,N,Jamaica,KIN,PAX
+Canada,YYZ,N,Jamaica,MBJ,PAX
+Canada,YYZ,N,Japan,HND,PAX
+Canada,YYZ,N,Japan,NRT,PAX
+Canada,YYZ,N,Korea,ICN,PAX
+Canada,YYZ,N,Netherlands,AMS,PAX
+Canada,YYZ,N,Netherlands Antilles,CUR,PAX
+Canada,YYZ,N,Netherlands Antilles,SXM,PAX
+Canada,YYZ,N,Portugal,LIS,PAX
+Canada,YYZ,N,Puerto Rico,SJU,CARGO
+Canada,YYZ,N,Puerto Rico,SJU,PAX
+Canada,YYZ,N,Qatar,DOH,PAX
+Canada,YYZ,N,Spain,BCN,PAX
+Canada,YYZ,N,Spain,MAD,CARGO
+Canada,YYZ,N,Spain,MAD,PAX
+Canada,YYZ,N,St. Kitts & Nevis,SKB,PAX
+Canada,YYZ,N,St. Lucia,UVF,PAX
+Canada,YYZ,N,St. Vincent & the Grenadines,SVD,PAX
+Canada,YYZ,N,Switzerland,ZRH,PAX
+Canada,YYZ,N,Trinidad Tobago,POS,PAX
+Canada,YYZ,N,Turks Caicos,PLS,PAX
+Canada,YYZ,N,United Arab Emirates,DXB,PAX
+Canada,YYZ,N,United Kingdom,EDI,PAX
+Canada,YYZ,N,United Kingdom,LHR,PAX
+Canada,YYZ,N,United Kingdom,MAN,PAX
+Canada,YYZ,N,United States,ATL,PAX
+Canada,YYZ,N,United States,AUS,PAX
+Canada,YYZ,N,United States,BDL,PAX
+Canada,YYZ,N,United States,BNA,PAX
+Canada,YYZ,N,United States,BOS,PAX
+Canada,YYZ,N,United States,BWI,PAX
+Canada,YYZ,N,United States,CLE,PAX
+Canada,YYZ,N,United States,CLT,PAX
+Canada,YYZ,N,United States,CMH,PAX
+Canada,YYZ,N,United States,CVG,PAX
+Canada,YYZ,N,United States,DEN,PAX
+Canada,YYZ,N,United States,DFW,PAX
+Canada,YYZ,N,United States,DTW,PAX
+Canada,YYZ,N,United States,EWR,PAX
+Canada,YYZ,N,United States,FLL,PAX
+Canada,YYZ,N,United States,HNL,PAX
+Canada,YYZ,N,United States,IAH,PAX
+Canada,YYZ,N,United States,IND,PAX
+Canada,YYZ,N,United States,LAS,PAX
+Canada,YYZ,N,United States,LAX,PAX
+Canada,YYZ,N,United States,LGA,PAX
+Canada,YYZ,N,United States,MCI,PAX
+Canada,YYZ,N,United States,MCO,PAX
+Canada,YYZ,N,United States,MIA,PAX
+Canada,YYZ,N,United States,MKE,PAX
+Canada,YYZ,N,United States,MSP,PAX
+Canada,YYZ,N,United States,MSY,PAX
+Canada,YYZ,N,United States,OGG,PAX
+Canada,YYZ,N,United States,ORD,PAX
+Canada,YYZ,N,United States,PBI,PAX
+Canada,YYZ,N,United States,PDX,PAX
+Canada,YYZ,N,United States,PHL,PAX
+Canada,YYZ,N,United States,PHX,PAX
+Canada,YYZ,N,United States,PIT,PAX
+Canada,YYZ,N,United States,PSP,PAX
+Canada,YYZ,N,United States,RDU,PAX
+Canada,YYZ,N,United States,RSW,PAX
+Canada,YYZ,N,United States,SAN,PAX
+Canada,YYZ,N,United States,SEA,PAX
+Canada,YYZ,N,United States,SFO,PAX
+Canada,YYZ,N,United States,SLC,PAX
+Canada,YYZ,N,United States,SRQ,PAX
+Canada,YYZ,N,United States,STL,PAX
+Canada,YYZ,N,United States,TPA,PAX
+Canada,YYZ,Y,Belize,BZE,PAX
+Canada,YYZ,Y,Brazil,GRU,PAX
+Canada,YYZ,Y,Chile,SCL,PAX
+Canada,YYZ,Y,Colombia,BOG,CARGO
+Canada,YYZ,Y,Colombia,BOG,PAX
+Canada,YYZ,Y,Costa Rica,LIR,PAX
+Canada,YYZ,Y,Costa Rica,SJO,PAX
+Canada,YYZ,Y,Mexico,CUN,PAX
+Canada,YYZ,Y,Mexico,CZM,PAX
+Canada,YYZ,Y,Mexico,GDL,CARGO
+Canada,YYZ,Y,Mexico,HUX,PAX
+Canada,YYZ,Y,Mexico,MEX,CARGO
+Canada,YYZ,Y,Mexico,MEX,PAX
+Canada,YYZ,Y,Mexico,PVR,PAX
+Canada,YYZ,Y,Mexico,SJD,PAX
+Canada,YYZ,Y,Mexico,ZIH,PAX
+Canada,YYZ,Y,Panama,PTY,CARGO
+Canada,YYZ,Y,Panama,PTY,PAX
+Canada,YYZ,Y,Peru,LIM,CARGO
+Canada,YYZ,Y,Peru,LIM,PAX
+Canada,YZF,N,Canada,YEG,PAX
+Canada,YZF,N,Canada,YVR,PAX
+Canada,YZF,N,Canada,YYC,PAX
+Canada,YZP,N,Canada,YVR,PAX
+Canada,YZV,N,Canada,YUL,PAX
+Canada,ZBF,N,Canada,YUL,PAX
+Cayman Islands,GCM,N,Canada,YYZ,PAX
+Chile,SCL,N,Canada,YYZ,PAX
+China,PEK,Y,Canada,YVR,PAX
+China,PEK,Y,Canada,YYZ,PAX
+China,PVG,Y,Canada,YUL,PAX
+China,PVG,Y,Canada,YVR,PAX
+China,PVG,Y,Canada,YYZ,PAX
+China,PVG,Y,Korea,ICN,PAX
+Colombia,BOG,N,Canada,YUL,PAX
+Colombia,BOG,N,Canada,YYZ,PAX
+Colombia,BOG,N,United States,ATL,CARGO
+Colombia,BOG,N,United States,MIA,CARGO
+Costa Rica,LIR,N,Canada,YUL,PAX
+Costa Rica,LIR,N,Canada,YYZ,PAX
+Costa Rica,SJO,N,Canada,YUL,PAX
+Costa Rica,SJO,N,Canada,YYZ,PAX
+Cuba,CCC,N,Canada,YUL,PAX
+Cuba,CCC,N,Canada,YYZ,PAX
+Cuba,HAV,N,Canada,YYZ,PAX
+Cuba,HOG,N,Canada,YUL,PAX
+Cuba,HOG,N,Canada,YYZ,PAX
+Cuba,SNU,N,Canada,YUL,PAX
+Cuba,SNU,N,Canada,YYZ,PAX
+Cuba,VRA,N,Canada,YQB,PAX
+Cuba,VRA,N,Canada,YUL,PAX
+Cuba,VRA,N,Canada,YYZ,PAX
+Denmark,CPH,N,Canada,YUL,PAX
+Denmark,CPH,N,Canada,YYZ,PAX
+District of Columbia,DCA,N,Canada,YOW,PAX
+District of Columbia,DCA,N,Canada,YUL,PAX
+District of Columbia,DCA,N,Canada,YYZ,PAX
+District of Columbia,IAD,N,Canada,YUL,PAX
+District of Columbia,IAD,N,Canada,YYZ,PAX
+Dominican Republic,AZS,N,Canada,YUL,PAX
+Dominican Republic,AZS,N,Canada,YYZ,PAX
+Dominican Republic,POP,N,Canada,YUL,PAX
+Dominican Republic,POP,N,Canada,YYZ,PAX
+Dominican Republic,PUJ,N,Canada,YHZ,PAX
+Dominican Republic,PUJ,N,Canada,YOW,PAX
+Dominican Republic,PUJ,N,Canada,YQB,PAX
+Dominican Republic,PUJ,N,Canada,YUL,PAX
+Dominican Republic,PUJ,N,Canada,YYZ,PAX
+Ecuador,UIO,N,Canada,YYZ,CARGO
+Ecuador,UIO,N,United States,MIA,CARGO
+Egypt,CAI,N,Canada,YUL,PAX
+France,CDG,N,Canada,YUL,PAX
+France,CDG,N,Canada,YYZ,PAX
+France,LYS,N,Canada,YUL,PAX
+France,NCE,N,Canada,YUL,PAX
+France,TLS,N,Canada,YUL,PAX
+Germany,FRA,N,Canada,YUL,PAX
+Germany,FRA,N,Canada,YVR,PAX
+Germany,FRA,N,Canada,YYC,PAX
+Germany,FRA,N,Canada,YYT,CARGO
+Germany,FRA,N,Canada,YYZ,CARGO
+Germany,FRA,N,Canada,YYZ,PAX
+Germany,MUC,N,Canada,YYZ,PAX
+Greece,ATH,N,Canada,YUL,PAX
+Greece,ATH,N,Canada,YYZ,PAX
+Grenada,GND,N,Canada,YYZ,PAX
+Guadeloupe,PTP,N,Canada,YUL,PAX
+Hong Kong,HKG,Y,Canada,YVR,PAX
+Hong Kong,HKG,Y,Canada,YYZ,PAX
+Iceland,KEF,N,Canada,YUL,PAX
+Iceland,KEF,N,Canada,YYZ,PAX
+India,BOM,N,United Kingdom,LHR,PAX
+India,DEL,N,Canada,YUL,PAX
+India,DEL,N,Canada,YVR,PAX
+India,DEL,N,Canada,YYZ,PAX
+Ireland,DUB,N,Canada,YUL,PAX
+Ireland,DUB,N,Canada,YVR,PAX
+Ireland,DUB,N,Canada,YYZ,PAX
+Israel,TLV,N,Canada,YUL,PAX
+Israel,TLV,N,Canada,YYZ,PAX
+Italy,FCO,N,Canada,YUL,PAX
+Italy,FCO,N,Canada,YYZ,PAX
+Italy,MXP,N,Canada,YUL,PAX
+Italy,VCE,N,Canada,YUL,PAX
+Italy,VCE,N,Canada,YYZ,PAX
+Jamaica,KIN,N,Canada,YYZ,PAX
+Jamaica,MBJ,N,Canada,YUL,PAX
+Jamaica,MBJ,N,Canada,YYZ,PAX
+Japan,HND,Y,Canada,YYZ,PAX
+Japan,KIX,Y,Canada,YVR,PAX
+Japan,NRT,Y,Canada,YUL,PAX
+Japan,NRT,Y,Canada,YVR,PAX
+Japan,NRT,Y,Canada,YYZ,PAX
+Korea,ICN,Y,Canada,YVR,PAX
+Korea,ICN,Y,Canada,YYZ,PAX
+Korea,ICN,Y,China,PVG,PAX
+Martinique,FDF,N,Canada,YUL,PAX
+Mexico,CUN,N,Canada,YEG,PAX
+Mexico,CUN,N,Canada,YHZ,PAX
+Mexico,CUN,N,Canada,YOW,PAX
+Mexico,CUN,N,Canada,YQB,PAX
+Mexico,CUN,N,Canada,YUL,PAX
+Mexico,CUN,N,Canada,YVR,PAX
+Mexico,CUN,N,Canada,YWG,PAX
+Mexico,CUN,N,Canada,YYC,PAX
+Mexico,CUN,N,Canada,YYZ,PAX
+Mexico,CZM,N,Canada,YUL,PAX
+Mexico,CZM,N,Canada,YYZ,PAX
+Mexico,GDL,N,United States,DFW,CARGO
+Mexico,GDL,Y,Mexico,MEX,CARGO
+Mexico,HUX,N,Canada,YYZ,PAX
+Mexico,MEX,N,Canada,YUL,PAX
+Mexico,MEX,N,Canada,YVR,PAX
+Mexico,MEX,N,Canada,YYZ,CARGO
+Mexico,MEX,N,Canada,YYZ,PAX
+Mexico,PVR,N,Canada,YUL,PAX
+Mexico,PVR,N,Canada,YVR,PAX
+Mexico,PVR,N,Canada,YYC,PAX
+Mexico,PVR,N,Canada,YYZ,PAX
+Mexico,SJD,N,Canada,YVR,PAX
+Mexico,SJD,N,Canada,YYC,PAX
+Mexico,SJD,N,Canada,YYZ,PAX
+Mexico,ZIH,N,Canada,YUL,PAX
+Mexico,ZIH,N,Canada,YVR,PAX
+Mexico,ZIH,N,Canada,YYZ,PAX
+Morocco,CMN,N,Canada,YUL,PAX
+Netherlands,AMS,N,Canada,YYZ,PAX
+Netherlands Antilles,CUR,N,Canada,YUL,PAX
+Netherlands Antilles,CUR,N,Canada,YYZ,PAX
+Netherlands Antilles,SXM,N,Canada,YYZ,PAX
+New Zealand,AKL,N,Canada,YVR,PAX
+Panama,PTY,N,Canada,YYZ,PAX
+Panama,PTY,Y,Colombia,BOG,CARGO
+Peru,LIM,N,Canada,YUL,PAX
+Peru,LIM,N,Canada,YYZ,PAX
+Peru,LIM,Y,Ecuador,UIO,CARGO
+Portugal,LIS,N,Canada,YUL,PAX
+Portugal,LIS,N,Canada,YYZ,PAX
+Puerto Rico,SJU,N,Canada,YUL,PAX
+Puerto Rico,SJU,N,Canada,YYZ,CARGO
+Puerto Rico,SJU,N,Canada,YYZ,PAX
+Qatar,DOH,N,Canada,YYZ,PAX
+Spain,BCN,N,Canada,YUL,PAX
+Spain,BCN,N,Canada,YYZ,PAX
+Spain,MAD,N,Canada,YHZ,CARGO
+Spain,MAD,N,Canada,YYT,CARGO
+Spain,MAD,N,Canada,YYZ,PAX
+St. Kitts & Nevis,SKB,N,Canada,YYZ,PAX
+St. Lucia,UVF,N,Canada,YYZ,PAX
+St. Vincent & the Grenadines,SVD,N,Canada,YYZ,PAX
+Switzerland,GVA,N,Canada,YUL,PAX
+Switzerland,ZRH,N,Canada,YVR,PAX
+Switzerland,ZRH,N,Canada,YYZ,PAX
+Thailand,BKK,Y,Canada,YVR,PAX
+Trinidad Tobago,POS,N,Canada,YYZ,PAX
+Turks Caicos,PLS,N,Canada,YUL,PAX
+Turks Caicos,PLS,N,Canada,YYZ,PAX
+United Arab Emirates,DXB,N,Canada,YYZ,PAX
+United Kingdom,EDI,N,Canada,YYZ,PAX
+United Kingdom,LHR,N,Canada,YHZ,PAX
+United Kingdom,LHR,N,Canada,YUL,PAX
+United Kingdom,LHR,N,Canada,YVR,PAX
+United Kingdom,LHR,N,Canada,YYC,PAX
+United Kingdom,LHR,N,Canada,YYZ,PAX
+United Kingdom,LHR,N,India,BOM,PAX
+United Kingdom,MAN,N,Canada,YYZ,PAX
+United States,ANC,N,Canada,YVR,PAX
+United States,ATL,N,Canada,YUL,PAX
+United States,ATL,N,Canada,YYZ,CARGO
+United States,ATL,N,Canada,YYZ,PAX
+United States,AUS,N,Canada,YVR,PAX
+United States,AUS,N,Canada,YYZ,PAX
+United States,BDL,N,Canada,YYZ,PAX
+United States,BNA,N,Canada,YUL,PAX
+United States,BNA,N,Canada,YYZ,PAX
+United States,BOS,N,Canada,YHZ,PAX
+United States,BOS,N,Canada,YUL,PAX
+United States,BOS,N,Canada,YVR,PAX
+United States,BOS,N,Canada,YYZ,PAX
+United States,BWI,N,Canada,YYZ,PAX
+United States,CLE,N,Canada,YYZ,PAX
+United States,CLT,N,Canada,YYZ,PAX
+United States,CMH,N,Canada,YYZ,PAX
+United States,CVG,N,Canada,YYZ,PAX
+United States,DEN,N,Canada,YUL,PAX
+United States,DEN,N,Canada,YVR,PAX
+United States,DEN,N,Canada,YYZ,PAX
+United States,DFW,N,Canada,YUL,PAX
+United States,DFW,N,Canada,YYZ,CARGO
+United States,DFW,N,Canada,YYZ,PAX
+United States,DTW,N,Canada,YUL,PAX
+United States,DTW,N,Canada,YYZ,PAX
+United States,EWR,N,Canada,YHZ,PAX
+United States,EWR,N,Canada,YOW,PAX
+United States,EWR,N,Canada,YUL,PAX
+United States,EWR,N,Canada,YVR,PAX
+United States,EWR,N,Canada,YYC,PAX
+United States,EWR,N,Canada,YYZ,PAX
+United States,FLL,N,Canada,YOW,PAX
+United States,FLL,N,Canada,YQB,PAX
+United States,FLL,N,Canada,YUL,PAX
+United States,FLL,N,Canada,YYZ,PAX
+United States,HNL,N,Canada,YVR,PAX
+United States,HNL,N,Canada,YYC,PAX
+United States,HNL,N,Canada,YYZ,PAX
+United States,IAH,N,Canada,YUL,PAX
+United States,IAH,N,Canada,YVR,PAX
+United States,IAH,N,Canada,YYC,PAX
+United States,IAH,N,Canada,YYZ,PAX
+United States,IND,N,Canada,YYZ,PAX
+United States,KOA,N,Canada,YVR,PAX
+United States,LAS,N,Canada,YUL,PAX
+United States,LAS,N,Canada,YVR,PAX
+United States,LAS,N,Canada,YYC,PAX
+United States,LAS,N,Canada,YYZ,PAX
+United States,LAX,N,Canada,YUL,PAX
+United States,LAX,N,Canada,YVR,PAX
+United States,LAX,N,Canada,YYC,PAX
+United States,LAX,N,Canada,YYZ,PAX
+United States,LGA,N,Canada,YUL,PAX
+United States,LGA,N,Canada,YYZ,PAX
+United States,MCI,N,Canada,YYZ,PAX
+United States,MCO,N,Canada,YHZ,PAX
+United States,MCO,N,Canada,YOW,PAX
+United States,MCO,N,Canada,YQB,PAX
+United States,MCO,N,Canada,YUL,PAX
+United States,MCO,N,Canada,YYZ,PAX
+United States,MIA,N,Canada,YUL,PAX
+United States,MIA,N,Canada,YVR,PAX
+United States,MIA,N,Canada,YYZ,CARGO
+United States,MIA,N,Canada,YYZ,PAX
+United States,MKE,N,Canada,YYZ,PAX
+United States,MSP,N,Canada,YUL,PAX
+United States,MSP,N,Canada,YYZ,PAX
+United States,MSY,N,Canada,YUL,PAX
+United States,MSY,N,Canada,YYZ,PAX
+United States,OGG,N,Canada,YVR,PAX
+United States,OGG,N,Canada,YYC,PAX
+United States,OGG,N,Canada,YYZ,PAX
+United States,ORD,N,Canada,YUL,PAX
+United States,ORD,N,Canada,YVR,PAX
+United States,ORD,N,Canada,YYZ,PAX
+United States,PBI,N,Canada,YUL,PAX
+United States,PBI,N,Canada,YYZ,PAX
+United States,PDX,N,Canada,YVR,PAX
+United States,PDX,N,Canada,YYZ,PAX
+United States,PHL,N,Canada,YUL,PAX
+United States,PHL,N,Canada,YYZ,PAX
+United States,PHX,N,Canada,YUL,PAX
+United States,PHX,N,Canada,YVR,PAX
+United States,PHX,N,Canada,YYC,PAX
+United States,PHX,N,Canada,YYZ,PAX
+United States,PIT,N,Canada,YUL,PAX
+United States,PIT,N,Canada,YYZ,PAX
+United States,PSP,N,Canada,YVR,PAX
+United States,PSP,N,Canada,YYZ,PAX
+United States,RDU,N,Canada,YUL,PAX
+United States,RDU,N,Canada,YYZ,PAX
+United States,RSW,N,Canada,YUL,PAX
+United States,RSW,N,Canada,YYZ,PAX
+United States,SAN,N,Canada,YUL,PAX
+United States,SAN,N,Canada,YVR,PAX
+United States,SAN,N,Canada,YYZ,PAX
+United States,SEA,N,Canada,YUL,PAX
+United States,SEA,N,Canada,YVR,PAX
+United States,SEA,N,Canada,YYZ,PAX
+United States,SFO,N,Canada,YEG,PAX
+United States,SFO,N,Canada,YUL,PAX
+United States,SFO,N,Canada,YVR,PAX
+United States,SFO,N,Canada,YYC,PAX
+United States,SFO,N,Canada,YYZ,PAX
+United States,SLC,N,Canada,YYZ,PAX
+United States,SMF,N,Canada,YVR,PAX
+United States,SNA,N,Canada,YVR,PAX
+United States,SRQ,N,Canada,YYZ,PAX
+United States,STL,N,Canada,YYZ,PAX
+United States,TPA,N,Canada,YHZ,PAX
+United States,TPA,N,Canada,YOW,PAX
+United States,TPA,N,Canada,YUL,PAX
+United States,TPA,N,Canada,YYZ,PAX
